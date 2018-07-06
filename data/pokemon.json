@@ -1,0 +1,7692 @@
+{
+    "1": {
+        "name": "Bulbasaur",
+        "evolution": "Bulbasaur » Ivysaur » Venusaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "max_cp": "981",
+        "attack": "118",
+        "defense": "118",
+        "stamina": "90",
+        "top_moves": [
+            "Vine Whip/Power Whip",
+            "Vine Whip/Seed Bomb",
+            "Tackle/Power Whip",
+            "Vine Whip/Sludge Bomb"
+        ]
+    },
+    "2": {
+        "name": "Ivysaur",
+        "evolution": "Bulbasaur » Ivysaur » Venusaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "max_cp": "1552",
+        "attack": "151",
+        "defense": "151",
+        "stamina": "120",
+        "top_moves": [
+            "Razor Leaf/Power Whip",
+            "Razor Leaf/Solar Beam",
+            "Razor Leaf/Sludge Bomb",
+            "Vine Whip/Power Whip"
+        ]
+    },
+    "3": {
+        "name": "Venusaur",
+        "evolution": "Bulbasaur » Ivysaur » Venusaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "max_cp": "2568",
+        "attack": "198",
+        "defense": "198",
+        "stamina": "160",
+        "top_moves": [
+            "Razor Leaf/Frenzy Plant",
+            "Razor Leaf/Solar Beam",
+            "Razor Leaf/Sludge Bomb",
+            "Vine Whip/Frenzy Plant"
+        ]
+    },
+    "4": {
+        "name": "Charmander",
+        "evolution": "Charmander » Charmeleon » Charizard",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "831",
+        "attack": "116",
+        "defense": "96",
+        "stamina": "78",
+        "top_moves": [
+            "Scratch/Flame Charge",
+            "Ember/Flame Charge",
+            "Scratch/Flame Burst",
+            "Scratch/Flamethrower"
+        ]
+    },
+    "5": {
+        "name": "Charmeleon",
+        "evolution": "Charmander » Charmeleon » Charizard",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "1484",
+        "attack": "158",
+        "defense": "129",
+        "stamina": "116",
+        "top_moves": [
+            "Scratch/Fire Punch",
+            "Fire Fang/Fire Punch",
+            "Scratch/Flame Burst",
+            "Scratch/Flamethrower"
+        ]
+    },
+    "6": {
+        "name": "Charizard",
+        "evolution": "Charmander » Charmeleon » Charizard",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "max_cp": "2686",
+        "attack": "223",
+        "defense": "176",
+        "stamina": "156",
+        "top_moves": [
+            "Air Slash/Overheat",
+            "Fire Spin/Overheat",
+            "Air Slash/Dragon Claw",
+            "Fire Spin/Dragon Claw"
+        ]
+    },
+    "7": {
+        "name": "Squirtle",
+        "evolution": "Squirtle » Wartortle » Blastoise",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "808",
+        "attack": "94",
+        "defense": "122",
+        "stamina": "88",
+        "top_moves": [
+            "Tackle/Aqua Tail",
+            "Bubble/Aqua Tail",
+            "Tackle/Water Pulse",
+            "Tackle/Aqua Jet"
+        ]
+    },
+    "8": {
+        "name": "Wartortle",
+        "evolution": "Squirtle » Wartortle » Blastoise",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "1324",
+        "attack": "126",
+        "defense": "155",
+        "stamina": "118",
+        "top_moves": [
+            "Bite/Ice Beam",
+            "Bite/Aqua Jet",
+            "Water Gun/Ice Beam",
+            "Bite/Hydro Pump"
+        ]
+    },
+    "9": {
+        "name": "Blastoise",
+        "evolution": "Squirtle » Wartortle » Blastoise",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "2291",
+        "attack": "171",
+        "defense": "210",
+        "stamina": "158",
+        "top_moves": [
+            "Bite/Ice Beam",
+            "Water Gun/Ice Beam",
+            "Bite/Hydro Pump",
+            "Bite/Flash Cannon"
+        ]
+    },
+    "10": {
+        "name": "Caterpie",
+        "evolution": "Caterpie » Metapod » Butterfree",
+        "type": [
+            "Bug"
+        ],
+        "max_cp": "393",
+        "attack": "55",
+        "defense": "62",
+        "stamina": "90",
+        "top_moves": [
+            "Tackle/Struggle",
+            "Bug Bite/Struggle"
+        ]
+    },
+    "11": {
+        "name": "Metapod",
+        "evolution": "Caterpie » Metapod » Butterfree",
+        "type": [
+            "Bug"
+        ],
+        "max_cp": "419",
+        "attack": "45",
+        "defense": "94",
+        "stamina": "100",
+        "top_moves": [
+            "Tackle/Struggle",
+            "Bug Bite/Struggle"
+        ]
+    },
+    "12": {
+        "name": "Butterfree",
+        "evolution": "Caterpie » Metapod » Butterfree",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "max_cp": "1701",
+        "attack": "167",
+        "defense": "151",
+        "stamina": "120",
+        "top_moves": [
+            "Confusion/Bug Buzz",
+            "Confusion/Signal Beam",
+            "Struggle Bug/Bug Buzz",
+            "Bug Bite/Bug Buzz"
+        ]
+    },
+    "13": {
+        "name": "Weedle",
+        "evolution": "Weedle » Kakuna » Beedrill",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "max_cp": "397",
+        "attack": "63",
+        "defense": "55",
+        "stamina": "80",
+        "top_moves": [
+            "Bug Bite/Struggle",
+            "Poison Sting/Struggle"
+        ]
+    },
+    "14": {
+        "name": "Kakuna",
+        "evolution": "Weedle » Kakuna » Beedrill",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "max_cp": "392",
+        "attack": "46",
+        "defense": "86",
+        "stamina": "90",
+        "top_moves": [
+            "Bug Bite/Struggle",
+            "Poison Sting/Struggle"
+        ]
+    },
+    "15": {
+        "name": "Beedrill",
+        "evolution": "Weedle » Kakuna » Beedrill",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "max_cp": "1777",
+        "attack": "169",
+        "defense": "150",
+        "stamina": "130",
+        "top_moves": [
+            "Poison Jab/Aerial Ace",
+            "Poison Jab/Sludge Bomb",
+            "Poison Jab/X Scissor",
+            "Bug Bite/Aerial Ace"
+        ]
+    },
+    "16": {
+        "name": "Pidgey",
+        "evolution": "Pidgey » Pidgeotto » Pidgeot",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "max_cp": "580",
+        "attack": "85",
+        "defense": "76",
+        "stamina": "80",
+        "top_moves": [
+            "Tackle/Aerial Ace",
+            "Quick Attack/Aerial Ace",
+            "Tackle/Twister",
+            "Tackle/Air Cutter"
+        ]
+    },
+    "17": {
+        "name": "Pidgeotto",
+        "evolution": "Pidgey » Pidgeotto » Pidgeot",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "max_cp": "1085",
+        "attack": "117",
+        "defense": "108",
+        "stamina": "126",
+        "top_moves": [
+            "Steel Wing/Aerial Ace",
+            "Steel Wing/Twister",
+            "Steel Wing/Air Cutter",
+            "Wing Attack/Aerial Ace"
+        ]
+    },
+    "18": {
+        "name": "Pidgeot",
+        "evolution": "Pidgey » Pidgeotto » Pidgeot",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "max_cp": "1994",
+        "attack": "166",
+        "defense": "157",
+        "stamina": "166",
+        "top_moves": [
+            "Steel Wing/Aerial Ace",
+            "Steel Wing/Air Cutter",
+            "Air Slash/Aerial Ace",
+            "Steel Wing/Hurricane"
+        ]
+    },
+    "19": {
+        "name": "Rattata",
+        "evolution": "Rattata » Raticate",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "588",
+        "attack": "103",
+        "defense": "70",
+        "stamina": "60",
+        "top_moves": [
+            "Tackle/Dig",
+            "Quick Attack/Dig",
+            "Tackle/Hyper Fang",
+            "Tackle/Body Slam"
+        ]
+    },
+    "20": {
+        "name": "Raticate",
+        "evolution": "Rattata » Raticate",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1549",
+        "attack": "161",
+        "defense": "144",
+        "stamina": "110",
+        "top_moves": [
+            "Bite/Dig",
+            "Bite/Hyper Fang",
+            "Bite/Hyper Beam",
+            "Quick Attack/Dig"
+        ]
+    },
+    "21": {
+        "name": "Spearow",
+        "evolution": "Spearow » Fearow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "max_cp": "673",
+        "attack": "112",
+        "defense": "61",
+        "stamina": "80",
+        "top_moves": [
+            "Peck/Drill Peck",
+            "Peck/Aerial Ace",
+            "Quick Attack/Drill Peck",
+            "Quick Attack/Aerial Ace"
+        ]
+    },
+    "22": {
+        "name": "Fearow",
+        "evolution": "Spearow » Fearow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "max_cp": "1814",
+        "attack": "182",
+        "defense": "135",
+        "stamina": "130",
+        "top_moves": [
+            "Steel Wing/Aerial Ace",
+            "Steel Wing/Drill Run",
+            "Steel Wing/Sky Attack",
+            "Steel Wing/Twister"
+        ]
+    },
+    "23": {
+        "name": "Ekans",
+        "evolution": "Ekans » Arbok",
+        "type": [
+            "Poison"
+        ],
+        "max_cp": "778",
+        "attack": "110",
+        "defense": "102",
+        "stamina": "70",
+        "top_moves": [
+            "Acid/Wrap",
+            "Acid/Sludge Bomb",
+            "Poison Sting/Wrap",
+            "Acid/Gunk Shot"
+        ]
+    },
+    "24": {
+        "name": "Arbok",
+        "evolution": "Ekans » Arbok",
+        "type": [
+            "Poison"
+        ],
+        "max_cp": "1737",
+        "attack": "167",
+        "defense": "158",
+        "stamina": "120",
+        "top_moves": [
+            "Bite/Dark Pulse",
+            "Bite/Gunk Shot",
+            "Acid/Dark Pulse",
+            "Bite/Sludge Wave"
+        ]
+    },
+    "25": {
+        "name": "Pikachu",
+        "evolution": "Pichu » Pikachu » Raichu",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "787",
+        "attack": "112",
+        "defense": "101",
+        "stamina": "70",
+        "top_moves": [
+            "Quick Attack/Discharge",
+            "Thunder Shock/Discharge",
+            "Quick Attack/Wild Charge",
+            "Thunder Shock/Wild Charge"
+        ]
+    },
+    "26": {
+        "name": "Raichu",
+        "evolution": "Pichu » Pikachu » Raichu",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "2025",
+        "attack": "193",
+        "defense": "165",
+        "stamina": "120",
+        "top_moves": [
+            "Volt Switch/Wild Charge",
+            "Spark/Wild Charge",
+            "Thunder Shock/Wild Charge",
+            "Volt Switch/Thunder Punch"
+        ]
+    },
+    "27": {
+        "name": "Sandshrew",
+        "evolution": "Sandshrew » Sandslash",
+        "type": [
+            "Ground"
+        ],
+        "max_cp": "1194",
+        "attack": "126",
+        "defense": "145",
+        "stamina": "100",
+        "top_moves": [
+            "Scratch/Dig",
+            "Scratch/Sand Tomb",
+            "Scratch/Rock Slide",
+            "Scratch/Rock Tomb"
+        ]
+    },
+    "28": {
+        "name": "Sandslash",
+        "evolution": "Sandshrew » Sandslash",
+        "type": [
+            "Ground"
+        ],
+        "max_cp": "2328",
+        "attack": "182",
+        "defense": "202",
+        "stamina": "150",
+        "top_moves": [
+            "Metal Claw/Bulldoze",
+            "Metal Claw/Rock Tomb",
+            "Metal Claw/Earthquake",
+            "Mud Shot/Bulldoze"
+        ]
+    },
+    "29": {
+        "name": "Nidoran-f",
+        "evolution": "Nidoran-f » Nidorina » Nidoqueen",
+        "type": [
+            "Poison"
+        ],
+        "max_cp": "736",
+        "attack": "86",
+        "defense": "94",
+        "stamina": "110",
+        "top_moves": [
+            "Bite/Sludge Bomb",
+            "Bite/Body Slam",
+            "Bite/Poison Fang",
+            "Poison Sting/Sludge Bomb"
+        ]
+    },
+    "30": {
+        "name": "Nidorina",
+        "evolution": "Nidoran-f » Nidorina » Nidoqueen",
+        "type": [
+            "Poison"
+        ],
+        "max_cp": "1218",
+        "attack": "117",
+        "defense": "126",
+        "stamina": "140",
+        "top_moves": [
+            "Bite/Dig",
+            "Bite/Sludge Bomb",
+            "Poison Sting/Dig",
+            "Bite/Poison Fang"
+        ]
+    },
+    "31": {
+        "name": "Nidoqueen",
+        "evolution": "Nidoran-f » Nidorina » Nidoqueen",
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "max_cp": "2338",
+        "attack": "180",
+        "defense": "174",
+        "stamina": "180",
+        "top_moves": [
+            "Bite/Earthquake",
+            "Poison Jab/Earthquake",
+            "Bite/Sludge Wave",
+            "Poison Jab/Sludge Wave"
+        ]
+    },
+    "32": {
+        "name": "Nidoran-m",
+        "evolution": "Nidoran-m » Nidorino » Nidoking",
+        "type": [
+            "Poison"
+        ],
+        "max_cp": "739",
+        "attack": "105",
+        "defense": "76",
+        "stamina": "92",
+        "top_moves": [
+            "Peck/Sludge Bomb",
+            "Peck/Body Slam",
+            "Poison Sting/Sludge Bomb",
+            "Poison Sting/Body Slam"
+        ]
+    },
+    "33": {
+        "name": "Nidorino",
+        "evolution": "Nidoran-m » Nidorino » Nidoking",
+        "type": [
+            "Poison"
+        ],
+        "max_cp": "1252",
+        "attack": "137",
+        "defense": "112",
+        "stamina": "122",
+        "top_moves": [
+            "Poison Jab/Dig",
+            "Poison Jab/Sludge Bomb",
+            "Poison Sting/Dig",
+            "Poison Jab/Horn Attack"
+        ]
+    },
+    "34": {
+        "name": "Nidoking",
+        "evolution": "Nidoran-m » Nidorino » Nidoking",
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "max_cp": "2386",
+        "attack": "204",
+        "defense": "157",
+        "stamina": "162",
+        "top_moves": [
+            "Iron Tail/Earthquake",
+            "Iron Tail/Sludge Wave",
+            "Iron Tail/Megahorn",
+            "Poison Jab/Earthquake"
+        ]
+    },
+    "35": {
+        "name": "Clefairy",
+        "evolution": "Cleffa » Clefairy » Clefable",
+        "type": [
+            "Fairy"
+        ],
+        "max_cp": "1085",
+        "attack": "107",
+        "defense": "116",
+        "stamina": "140",
+        "top_moves": [
+            "Zen Headbutt/Disarming Voice",
+            "Pound/Disarming Voice",
+            "Zen Headbutt/Body Slam",
+            "Pound/Body Slam"
+        ]
+    },
+    "36": {
+        "name": "Clefable",
+        "evolution": "Cleffa » Clefairy » Clefable",
+        "type": [
+            "Fairy"
+        ],
+        "max_cp": "2353",
+        "attack": "178",
+        "defense": "171",
+        "stamina": "190",
+        "top_moves": [
+            "Zen Headbutt/Dazzling Gleam",
+            "Pound/Dazzling Gleam",
+            "Charge Beam/Dazzling Gleam",
+            "Zen Headbutt/Moonblast"
+        ]
+    },
+    "37": {
+        "name": "Vulpix",
+        "evolution": "Vulpix » Ninetales",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "774",
+        "attack": "96",
+        "defense": "122",
+        "stamina": "76",
+        "top_moves": [
+            "Ember/Flame Charge",
+            "Quick Attack/Flame Charge",
+            "Ember/Body Slam",
+            "Ember/Flamethrower"
+        ]
+    },
+    "38": {
+        "name": "Ninetales",
+        "evolution": "Vulpix » Ninetales",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "2157",
+        "attack": "169",
+        "defense": "204",
+        "stamina": "146",
+        "top_moves": [
+            "Fire Spin/Solar Beam",
+            "Feint Attack/Solar Beam",
+            "Fire Spin/Overheat",
+            "Feint Attack/Overheat"
+        ]
+    },
+    "39": {
+        "name": "Jigglypuff",
+        "evolution": "Igglybuff » Jigglypuff » Wigglytuff",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "max_cp": "713",
+        "attack": "80",
+        "defense": "44",
+        "stamina": "230",
+        "top_moves": [
+            "Feint Attack/Disarming Voice",
+            "Pound/Disarming Voice",
+            "Feint Attack/Dazzling Gleam",
+            "Pound/Dazzling Gleam"
+        ]
+    },
+    "40": {
+        "name": "Wigglytuff",
+        "evolution": "Igglybuff » Jigglypuff » Wigglytuff",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "max_cp": "1906",
+        "attack": "156",
+        "defense": "93",
+        "stamina": "280",
+        "top_moves": [
+            "Feint Attack/Dazzling Gleam",
+            "Pound/Dazzling Gleam",
+            "Feint Attack/Play Rough",
+            "Pound/Play Rough"
+        ]
+    },
+    "41": {
+        "name": "Zubat",
+        "evolution": "Zubat » Golbat » Crobat",
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "max_cp": "569",
+        "attack": "83",
+        "defense": "76",
+        "stamina": "80",
+        "top_moves": [
+            "Bite/Sludge Bomb",
+            "Bite/Swift",
+            "Bite/Air Cutter",
+            "Bite/Poison Fang"
+        ]
+    },
+    "42": {
+        "name": "Golbat",
+        "evolution": "Zubat » Golbat » Crobat",
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "max_cp": "1830",
+        "attack": "161",
+        "defense": "153",
+        "stamina": "150",
+        "top_moves": [
+            "Bite/Shadow Ball",
+            "Bite/Ominous Wind",
+            "Wing Attack/Shadow Ball",
+            "Bite/Air Cutter"
+        ]
+    },
+    "43": {
+        "name": "Oddish",
+        "evolution": "Oddish » Gloom » Vileplume/Bellossom",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "max_cp": "1069",
+        "attack": "131",
+        "defense": "116",
+        "stamina": "90",
+        "top_moves": [
+            "Razor Leaf/Seed Bomb",
+            "Razor Leaf/Sludge Bomb",
+            "Razor Leaf/Moonblast",
+            "Acid/Seed Bomb"
+        ]
+    },
+    "44": {
+        "name": "Gloom",
+        "evolution": "Oddish » Gloom » Vileplume/Bellossom",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "max_cp": "1512",
+        "attack": "153",
+        "defense": "139",
+        "stamina": "120",
+        "top_moves": [
+            "Razor Leaf/Sludge Bomb",
+            "Razor Leaf/Moonblast",
+            "Razor Leaf/Petal Blizzard",
+            "Acid/Sludge Bomb"
+        ]
+    },
+    "45": {
+        "name": "Vileplume",
+        "evolution": "Oddish » Gloom » Vileplume/Bellossom",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "max_cp": "2367",
+        "attack": "202",
+        "defense": "170",
+        "stamina": "150",
+        "top_moves": [
+            "Razor Leaf/Solar Beam",
+            "Razor Leaf/Moonblast",
+            "Razor Leaf/Petal Blizzard",
+            "Acid/Solar Beam"
+        ]
+    },
+    "46": {
+        "name": "Paras",
+        "evolution": "Paras » Parasect",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "max_cp": "836",
+        "attack": "121",
+        "defense": "99",
+        "stamina": "70",
+        "top_moves": [
+            "Scratch/Seed Bomb",
+            "Scratch/X Scissor",
+            "Scratch/Cross Poison",
+            "Bug Bite/Seed Bomb"
+        ]
+    },
+    "47": {
+        "name": "Parasect",
+        "evolution": "Paras » Parasect",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "max_cp": "1657",
+        "attack": "165",
+        "defense": "146",
+        "stamina": "120",
+        "top_moves": [
+            "Struggle Bug/Solar Beam",
+            "Bug Bite/Solar Beam",
+            "Struggle Bug/X Scissor",
+            "Fury Cutter/Solar Beam"
+        ]
+    },
+    "48": {
+        "name": "Venonat",
+        "evolution": "Venonat » Venomoth",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "max_cp": "902",
+        "attack": "100",
+        "defense": "102",
+        "stamina": "120",
+        "top_moves": [
+            "Confusion/Signal Beam",
+            "Confusion/Psybeam",
+            "Confusion/Poison Fang",
+            "Bug Bite/Signal Beam"
+        ]
+    },
+    "49": {
+        "name": "Venomoth",
+        "evolution": "Venonat » Venomoth",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "max_cp": "1937",
+        "attack": "179",
+        "defense": "150",
+        "stamina": "140",
+        "top_moves": [
+            "Confusion/Silver Wind",
+            "Confusion/Bug Buzz",
+            "Bug Bite/Silver Wind",
+            "Infestation/Silver Wind"
+        ]
+    },
+    "50": {
+        "name": "Diglett",
+        "evolution": "Diglett » Dugtrio",
+        "type": [
+            "Ground"
+        ],
+        "max_cp": "465",
+        "attack": "109",
+        "defense": "88",
+        "stamina": "20",
+        "top_moves": [
+            "Scratch/Dig",
+            "Mud Slap/Dig",
+            "Scratch/Mud Bomb",
+            "Mud Slap/Mud Bomb"
+        ]
+    },
+    "51": {
+        "name": "Dugtrio",
+        "evolution": "Diglett » Dugtrio",
+        "type": [
+            "Ground"
+        ],
+        "max_cp": "1333",
+        "attack": "167",
+        "defense": "147",
+        "stamina": "70",
+        "top_moves": [
+            "Mud Slap/Mud Bomb",
+            "Sucker Punch/Mud Bomb",
+            "Mud Slap/Earthquake",
+            "Mud Shot/Mud Bomb"
+        ]
+    },
+    "52": {
+        "name": "Meowth",
+        "evolution": "Meowth » Persian",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "638",
+        "attack": "92",
+        "defense": "81",
+        "stamina": "80",
+        "top_moves": [
+            "Bite/Dark Pulse",
+            "Scratch/Dark Pulse",
+            "Bite/Night Slash",
+            "Bite/Body Slam"
+        ]
+    },
+    "53": {
+        "name": "Persian",
+        "evolution": "Meowth » Persian",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1539",
+        "attack": "150",
+        "defense": "139",
+        "stamina": "130",
+        "top_moves": [
+            "Scratch/Play Rough",
+            "Scratch/Power Gem",
+            "Scratch/Night Slash",
+            "Feint Attack/Play Rough"
+        ]
+    },
+    "54": {
+        "name": "Psyduck",
+        "evolution": "Psyduck » Golduck",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "966",
+        "attack": "122",
+        "defense": "96",
+        "stamina": "100",
+        "top_moves": [
+            "Zen Headbutt/Aqua Tail",
+            "Zen Headbutt/Psybeam",
+            "Water Gun/Aqua Tail",
+            "Water Gun/Psybeam"
+        ]
+    },
+    "55": {
+        "name": "Golduck",
+        "evolution": "Psyduck » Golduck",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "2270",
+        "attack": "191",
+        "defense": "163",
+        "stamina": "160",
+        "top_moves": [
+            "Confusion/Ice Beam",
+            "Water Gun/Ice Beam",
+            "Confusion/Hydro Pump",
+            "Confusion/Psychic"
+        ]
+    },
+    "56": {
+        "name": "Mankey",
+        "evolution": "Mankey » Primeape",
+        "type": [
+            "Fighting"
+        ],
+        "max_cp": "1002",
+        "attack": "148",
+        "defense": "87",
+        "stamina": "80",
+        "top_moves": [
+            "Scratch/Low Sweep",
+            "Scratch/Brick Break",
+            "Scratch/Cross Chop",
+            "Karate Chop/Low Sweep"
+        ]
+    },
+    "57": {
+        "name": "Primeape",
+        "evolution": "Mankey » Primeape",
+        "type": [
+            "Fighting"
+        ],
+        "max_cp": "2105",
+        "attack": "207",
+        "defense": "144",
+        "stamina": "130",
+        "top_moves": [
+            "Counter/Night Slash",
+            "Counter/Low Sweep",
+            "Counter/Cross Chop",
+            "Counter/Close Combat"
+        ]
+    },
+    "58": {
+        "name": "Growlithe",
+        "evolution": "Growlithe » Arcanine",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "1110",
+        "attack": "136",
+        "defense": "96",
+        "stamina": "110",
+        "top_moves": [
+            "Bite/Body Slam",
+            "Bite/Flamethrower",
+            "Bite/Flame Wheel",
+            "Ember/Body Slam"
+        ]
+    },
+    "59": {
+        "name": "Arcanine",
+        "evolution": "Growlithe » Arcanine",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "2839",
+        "attack": "227",
+        "defense": "166",
+        "stamina": "180",
+        "top_moves": [
+            "Bite/Crunch",
+            "Fire Fang/Crunch",
+            "Bite/Wild Charge",
+            "Fire Fang/Wild Charge"
+        ]
+    },
+    "60": {
+        "name": "Poliwag",
+        "evolution": "Poliwag » Poliwhirl » Poliwrath/Politoed",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "695",
+        "attack": "101",
+        "defense": "82",
+        "stamina": "80",
+        "top_moves": [
+            "Bubble/Mud Bomb",
+            "Bubble/Body Slam",
+            "Mud Shot/Mud Bomb",
+            "Bubble/Bubble Beam"
+        ]
+    },
+    "61": {
+        "name": "Poliwhirl",
+        "evolution": "Poliwag » Poliwhirl » Poliwrath/Politoed",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "1313",
+        "attack": "130",
+        "defense": "130",
+        "stamina": "130",
+        "top_moves": [
+            "Bubble/Mud Bomb",
+            "Bubble/Scald",
+            "Mud Shot/Mud Bomb",
+            "Bubble/Water Pulse"
+        ]
+    },
+    "62": {
+        "name": "Poliwrath",
+        "evolution": "Poliwag » Poliwhirl » Poliwrath/Politoed",
+        "type": [
+            "Water",
+            "Fighting"
+        ],
+        "max_cp": "2441",
+        "attack": "182",
+        "defense": "187",
+        "stamina": "180",
+        "top_moves": [
+            "Rock Smash/Dynamic Punch",
+            "Rock Smash/Ice Punch",
+            "Rock Smash/Hydro Pump",
+            "Bubble/Dynamic Punch"
+        ]
+    },
+    "63": {
+        "name": "Abra",
+        "evolution": "Abra » Kadabra » Alakazam",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "1148",
+        "attack": "195",
+        "defense": "103",
+        "stamina": "50",
+        "top_moves": [
+            "Zen Headbutt/Shadow Ball",
+            "Zen Headbutt/Psyshock",
+            "Zen Headbutt/Signal Beam",
+            "Charge Beam/Shadow Ball"
+        ]
+    },
+    "64": {
+        "name": "Kadabra",
+        "evolution": "Abra » Kadabra » Alakazam",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "1859",
+        "attack": "232",
+        "defense": "138",
+        "stamina": "80",
+        "top_moves": [
+            "Confusion/Dazzling Gleam",
+            "Confusion/Shadow Ball",
+            "Confusion/Psybeam",
+            "Psycho Cut/Dazzling Gleam"
+        ]
+    },
+    "65": {
+        "name": "Alakazam",
+        "evolution": "Abra » Kadabra » Alakazam",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "2887",
+        "attack": "271",
+        "defense": "194",
+        "stamina": "110",
+        "top_moves": [
+            "Confusion/Dazzling Gleam",
+            "Confusion/Shadow Ball",
+            "Confusion/Focus Blast",
+            "Psycho Cut/Dazzling Gleam"
+        ]
+    },
+    "66": {
+        "name": "Machop",
+        "evolution": "Machop » Machoke » Machamp",
+        "type": [
+            "Fighting"
+        ],
+        "max_cp": "1199",
+        "attack": "137",
+        "defense": "88",
+        "stamina": "140",
+        "top_moves": [
+            "Rock Smash/Low Sweep",
+            "Rock Smash/Brick Break",
+            "Rock Smash/Cross Chop",
+            "Low Kick/Low Sweep"
+        ]
+    },
+    "67": {
+        "name": "Machoke",
+        "evolution": "Machop » Machoke » Machamp",
+        "type": [
+            "Fighting"
+        ],
+        "max_cp": "1910",
+        "attack": "177",
+        "defense": "130",
+        "stamina": "160",
+        "top_moves": [
+            "Low Kick/Dynamic Punch",
+            "Karate Chop/Dynamic Punch",
+            "Low Kick/Brick Break",
+            "Low Kick/Submission"
+        ]
+    },
+    "68": {
+        "name": "Machamp",
+        "evolution": "Machop » Machoke » Machamp",
+        "type": [
+            "Fighting"
+        ],
+        "max_cp": "2889",
+        "attack": "234",
+        "defense": "162",
+        "stamina": "180",
+        "top_moves": [
+            "Counter/Dynamic Punch",
+            "Counter/Heavy Slam",
+            "Counter/Submission",
+            "Bullet Punch/Dynamic Punch"
+        ]
+    },
+    "69": {
+        "name": "Bellsprout",
+        "evolution": "Bellsprout » Weepinbell » Victreebel",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "max_cp": "916",
+        "attack": "139",
+        "defense": "64",
+        "stamina": "100",
+        "top_moves": [
+            "Vine Whip/Wrap",
+            "Vine Whip/Power Whip",
+            "Acid/Wrap",
+            "Acid/Power Whip"
+        ]
+    },
+    "70": {
+        "name": "Weepinbell",
+        "evolution": "Bellsprout » Weepinbell » Victreebel",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "max_cp": "1475",
+        "attack": "172",
+        "defense": "95",
+        "stamina": "130",
+        "top_moves": [
+            "Razor Leaf/Power Whip",
+            "Razor Leaf/Seed Bomb",
+            "Razor Leaf/Sludge Bomb",
+            "Acid/Power Whip"
+        ]
+    },
+    "71": {
+        "name": "Victreebel",
+        "evolution": "Bellsprout » Weepinbell » Victreebel",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "max_cp": "2268",
+        "attack": "207",
+        "defense": "138",
+        "stamina": "160",
+        "top_moves": [
+            "Razor Leaf/Leaf Blade",
+            "Razor Leaf/Solar Beam",
+            "Razor Leaf/Sludge Bomb",
+            "Acid/Leaf Blade"
+        ]
+    },
+    "72": {
+        "name": "Tentacool",
+        "evolution": "Tentacool » Tentacruel",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "max_cp": "956",
+        "attack": "97",
+        "defense": "182",
+        "stamina": "80",
+        "top_moves": [
+            "Bubble/Wrap",
+            "Poison Sting/Wrap",
+            "Bubble/Water Pulse",
+            "Bubble/Bubble Beam"
+        ]
+    },
+    "73": {
+        "name": "Tentacruel",
+        "evolution": "Tentacool » Tentacruel",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "max_cp": "2374",
+        "attack": "166",
+        "defense": "237",
+        "stamina": "160",
+        "top_moves": [
+            "Poison Jab/Blizzard",
+            "Poison Jab/Hydro Pump",
+            "Poison Jab/Sludge Wave",
+            "Acid/Blizzard"
+        ]
+    },
+    "74": {
+        "name": "Geodude",
+        "evolution": "Geodude » Graveler » Golem",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "max_cp": "1193",
+        "attack": "132",
+        "defense": "163",
+        "stamina": "80",
+        "top_moves": [
+            "Rock Throw/Dig",
+            "Rock Throw/Rock Slide",
+            "Rock Throw/Rock Tomb",
+            "Tackle/Dig"
+        ]
+    },
+    "75": {
+        "name": "Graveler",
+        "evolution": "Geodude » Graveler » Golem",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "max_cp": "1815",
+        "attack": "164",
+        "defense": "196",
+        "stamina": "110",
+        "top_moves": [
+            "Rock Throw/Dig",
+            "Rock Throw/Rock Slide",
+            "Mud Slap/Dig",
+            "Rock Throw/Rock Blast"
+        ]
+    },
+    "76": {
+        "name": "Golem",
+        "evolution": "Geodude » Graveler » Golem",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "max_cp": "2916",
+        "attack": "211",
+        "defense": "229",
+        "stamina": "160",
+        "top_moves": [
+            "Rock Throw/Ancient Power",
+            "Mud Slap/Ancient Power",
+            "Rock Throw/Rock Blast",
+            "Rock Throw/Earthquake"
+        ]
+    },
+    "77": {
+        "name": "Ponyta",
+        "evolution": "Ponyta » Rapidash",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "1502",
+        "attack": "170",
+        "defense": "132",
+        "stamina": "100",
+        "top_moves": [
+            "Tackle/Flame Charge",
+            "Ember/Flame Charge",
+            "Tackle/Fire Blast",
+            "Ember/Fire Blast"
+        ]
+    },
+    "78": {
+        "name": "Rapidash",
+        "evolution": "Ponyta » Rapidash",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "2252",
+        "attack": "207",
+        "defense": "167",
+        "stamina": "130",
+        "top_moves": [
+            "Fire Spin/Drill Run",
+            "Fire Spin/Fire Blast",
+            "Low Kick/Drill Run",
+            "Ember/Drill Run"
+        ]
+    },
+    "79": {
+        "name": "Slowpoke",
+        "evolution": "Slowpoke » Slowbro/Slowking",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "max_cp": "1204",
+        "attack": "109",
+        "defense": "109",
+        "stamina": "180",
+        "top_moves": [
+            "Confusion/Psyshock",
+            "Water Gun/Psyshock",
+            "Confusion/Water Pulse",
+            "Water Gun/Water Pulse"
+        ]
+    },
+    "80": {
+        "name": "Slowbro",
+        "evolution": "Slowpoke » Slowbro/Slowking",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "max_cp": "2482",
+        "attack": "177",
+        "defense": "194",
+        "stamina": "190",
+        "top_moves": [
+            "Confusion/Ice Beam",
+            "Water Gun/Ice Beam",
+            "Confusion/Water Pulse",
+            "Water Gun/Water Pulse"
+        ]
+    },
+    "81": {
+        "name": "Magnemite",
+        "evolution": "Magnemite » Magneton",
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "max_cp": "1083",
+        "attack": "165",
+        "defense": "128",
+        "stamina": "50",
+        "top_moves": [
+            "Spark/Magnet Bomb",
+            "Thunder Shock/Magnet Bomb",
+            "Spark/Discharge",
+            "Thunder Shock/Discharge"
+        ]
+    },
+    "82": {
+        "name": "Magneton",
+        "evolution": "Magnemite » Magneton",
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "max_cp": "2237",
+        "attack": "223",
+        "defense": "182",
+        "stamina": "100",
+        "top_moves": [
+            "Spark/Magnet Bomb",
+            "Thunder Shock/Magnet Bomb",
+            "Spark/Discharge",
+            "Charge Beam/Magnet Bomb"
+        ]
+    },
+    "83": {
+        "name": "Farfetchd",
+        "evolution": "Farfetchd",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "max_cp": "1092",
+        "attack": "124",
+        "defense": "118",
+        "stamina": "104",
+        "top_moves": [
+            "Air Slash/Leaf Blade",
+            "Cut/Leaf Blade",
+            "Air Slash/Aerial Ace",
+            "Cut/Aerial Ace"
+        ]
+    },
+    "84": {
+        "name": "Doduo",
+        "evolution": "Doduo » Dodrio",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "max_cp": "1011",
+        "attack": "158",
+        "defense": "88",
+        "stamina": "70",
+        "top_moves": [
+            "Peck/Drill Peck",
+            "Peck/Aerial Ace",
+            "Quick Attack/Drill Peck",
+            "Quick Attack/Aerial Ace"
+        ]
+    },
+    "85": {
+        "name": "Dodrio",
+        "evolution": "Doduo » Dodrio",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "max_cp": "2138",
+        "attack": "218",
+        "defense": "145",
+        "stamina": "120",
+        "top_moves": [
+            "Steel Wing/Drill Peck",
+            "Steel Wing/Aerial Ace",
+            "Steel Wing/Air Cutter",
+            "Feint Attack/Drill Peck"
+        ]
+    },
+    "86": {
+        "name": "Seel",
+        "evolution": "Seel » Dewgong",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "899",
+        "attack": "85",
+        "defense": "128",
+        "stamina": "130",
+        "top_moves": [
+            "Ice Shard/Icy Wind",
+            "Water Gun/Icy Wind",
+            "Ice Shard/Aurora Beam",
+            "Lick/Icy Wind"
+        ]
+    },
+    "87": {
+        "name": "Dewgong",
+        "evolution": "Seel » Dewgong",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "max_cp": "1894",
+        "attack": "139",
+        "defense": "184",
+        "stamina": "180",
+        "top_moves": [
+            "Iron Tail/Icy Wind",
+            "Iron Tail/Aurora Beam",
+            "Iron Tail/Water Pulse",
+            "Iron Tail/Aqua Jet"
+        ]
+    },
+    "88": {
+        "name": "Grimer",
+        "evolution": "Grimer » Muk",
+        "type": [
+            "Poison"
+        ],
+        "max_cp": "1269",
+        "attack": "135",
+        "defense": "90",
+        "stamina": "160",
+        "top_moves": [
+            "Poison Jab/Mud Bomb",
+            "Poison Jab/Sludge Bomb",
+            "Mud Slap/Mud Bomb",
+            "Poison Jab/Sludge"
+        ]
+    },
+    "89": {
+        "name": "Muk",
+        "evolution": "Grimer » Muk",
+        "type": [
+            "Poison"
+        ],
+        "max_cp": "2709",
+        "attack": "190",
+        "defense": "184",
+        "stamina": "210",
+        "top_moves": [
+            "Poison Jab/Dark Pulse",
+            "Poison Jab/Gunk Shot",
+            "Acid/Dark Pulse",
+            "Poison Jab/Sludge Wave"
+        ]
+    },
+    "90": {
+        "name": "Shellder",
+        "evolution": "Shellder » Cloyster",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "958",
+        "attack": "116",
+        "defense": "168",
+        "stamina": "60",
+        "top_moves": [
+            "Ice Shard/Icy Wind",
+            "Tackle/Icy Wind",
+            "Ice Shard/Water Pulse",
+            "Ice Shard/Bubble Beam"
+        ]
+    },
+    "91": {
+        "name": "Cloyster",
+        "evolution": "Shellder » Cloyster",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "max_cp": "2475",
+        "attack": "186",
+        "defense": "323",
+        "stamina": "100",
+        "top_moves": [
+            "Frost Breath/Icy Wind",
+            "Frost Breath/Avalanche",
+            "Frost Breath/Aurora Beam",
+            "Ice Shard/Icy Wind"
+        ]
+    },
+    "92": {
+        "name": "Gastly",
+        "evolution": "Gastly » Haunter » Gengar",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "max_cp": "1002",
+        "attack": "186",
+        "defense": "70",
+        "stamina": "60",
+        "top_moves": [
+            "Sucker Punch/Dark Pulse",
+            "Sucker Punch/Sludge Bomb",
+            "Lick/Dark Pulse",
+            "Lick/Sludge Bomb"
+        ]
+    },
+    "93": {
+        "name": "Haunter",
+        "evolution": "Gastly » Haunter » Gengar",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "max_cp": "1716",
+        "attack": "223",
+        "defense": "112",
+        "stamina": "90",
+        "top_moves": [
+            "Shadow Claw/Shadow Ball",
+            "Shadow Claw/Dark Pulse",
+            "Shadow Claw/Sludge Bomb",
+            "Lick/Shadow Ball"
+        ]
+    },
+    "94": {
+        "name": "Gengar",
+        "evolution": "Gastly » Haunter » Gengar",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "max_cp": "2619",
+        "attack": "261",
+        "defense": "156",
+        "stamina": "120",
+        "top_moves": [
+            "Shadow Claw/Shadow Ball",
+            "Shadow Claw/Dark Pulse",
+            "Shadow Claw/Sludge Bomb",
+            "Shadow Claw/Focus Blast"
+        ]
+    },
+    "95": {
+        "name": "Onix",
+        "evolution": "Onix » Steelix",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "max_cp": "1002",
+        "attack": "85",
+        "defense": "288",
+        "stamina": "70",
+        "top_moves": [
+            "Rock Throw/Sand Tomb",
+            "Rock Throw/Rock Slide",
+            "Rock Throw/Heavy Slam",
+            "Rock Throw/Iron Head"
+        ]
+    },
+    "96": {
+        "name": "Drowzee",
+        "evolution": "Drowzee » Hypno",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "992",
+        "attack": "89",
+        "defense": "158",
+        "stamina": "120",
+        "top_moves": [
+            "Confusion/Psyshock",
+            "Pound/Psyshock",
+            "Confusion/Psybeam",
+            "Pound/Psybeam"
+        ]
+    },
+    "97": {
+        "name": "Hypno",
+        "evolution": "Drowzee » Hypno",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "2048",
+        "attack": "144",
+        "defense": "215",
+        "stamina": "170",
+        "top_moves": [
+            "Confusion/Shadow Ball",
+            "Confusion/Psyshock",
+            "Zen Headbutt/Shadow Ball",
+            "Zen Headbutt/Psyshock"
+        ]
+    },
+    "98": {
+        "name": "Krabby",
+        "evolution": "Krabby » Kingler",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "1386",
+        "attack": "181",
+        "defense": "156",
+        "stamina": "60",
+        "top_moves": [
+            "Bubble/Water Pulse",
+            "Bubble/Bubble Beam",
+            "Mud Shot/Water Pulse",
+            "Mud Shot/Bubble Beam"
+        ]
+    },
+    "99": {
+        "name": "Kingler",
+        "evolution": "Krabby » Kingler",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "2694",
+        "attack": "240",
+        "defense": "214",
+        "stamina": "110",
+        "top_moves": [
+            "Metal Claw/Water Pulse",
+            "Metal Claw/X Scissor",
+            "Bubble/Water Pulse",
+            "Bubble/X Scissor"
+        ]
+    },
+    "100": {
+        "name": "Voltorb",
+        "evolution": "Voltorb » Electrode",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "857",
+        "attack": "109",
+        "defense": "114",
+        "stamina": "80",
+        "top_moves": [
+            "Tackle/Discharge",
+            "Spark/Discharge",
+            "Tackle/Gyro Ball",
+            "Tackle/Thunderbolt"
+        ]
+    },
+    "101": {
+        "name": "Electrode",
+        "evolution": "Voltorb » Electrode",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "1900",
+        "attack": "173",
+        "defense": "179",
+        "stamina": "120",
+        "top_moves": [
+            "Tackle/Discharge",
+            "Volt Switch/Discharge",
+            "Spark/Discharge",
+            "Tackle/Thunderbolt"
+        ]
+    },
+    "102": {
+        "name": "Exeggcute",
+        "evolution": "Exeggcute » Exeggutor",
+        "type": [
+            "Grass",
+            "Psychic"
+        ],
+        "max_cp": "1102",
+        "attack": "107",
+        "defense": "140",
+        "stamina": "120",
+        "top_moves": [
+            "Confusion/Ancient Power",
+            "Confusion/Seed Bomb",
+            "Bullet Seed/Ancient Power",
+            "Confusion/Psychic"
+        ]
+    },
+    "103": {
+        "name": "Exeggutor",
+        "evolution": "Exeggcute » Exeggutor",
+        "type": [
+            "Grass",
+            "Psychic"
+        ],
+        "max_cp": "2916",
+        "attack": "233",
+        "defense": "158",
+        "stamina": "190",
+        "top_moves": [
+            "Confusion/Solar Beam",
+            "Confusion/Seed Bomb",
+            "Zen Headbutt/Solar Beam",
+            "Extrasensory/Solar Beam"
+        ]
+    },
+    "104": {
+        "name": "Cubone",
+        "evolution": "Cubone » Marowak",
+        "type": [
+            "Ground"
+        ],
+        "max_cp": "943",
+        "attack": "90",
+        "defense": "165",
+        "stamina": "100",
+        "top_moves": [
+            "Rock Smash/Dig",
+            "Mud Slap/Dig",
+            "Rock Smash/Bulldoze",
+            "Mud Slap/Bulldoze"
+        ]
+    },
+    "105": {
+        "name": "Marowak",
+        "evolution": "Cubone » Marowak",
+        "type": [
+            "Ground"
+        ],
+        "max_cp": "1691",
+        "attack": "144",
+        "defense": "200",
+        "stamina": "120",
+        "top_moves": [
+            "Rock Smash/Dig",
+            "Mud Slap/Dig",
+            "Rock Smash/Bone Club",
+            "Rock Smash/Earthquake"
+        ]
+    },
+    "106": {
+        "name": "Hitmonlee",
+        "evolution": "Tyrogue » Hitmonlee/Hitmonchan/Hitmontop",
+        "type": [
+            "Fighting"
+        ],
+        "max_cp": "2406",
+        "attack": "224",
+        "defense": "211",
+        "stamina": "100",
+        "top_moves": [
+            "Rock Smash/Low Sweep",
+            "Rock Smash/Brick Break",
+            "Rock Smash/Stomp",
+            "Rock Smash/Stone Edge"
+        ]
+    },
+    "107": {
+        "name": "Hitmonchan",
+        "evolution": "Tyrogue » Hitmonlee/Hitmonchan/Hitmontop",
+        "type": [
+            "Fighting"
+        ],
+        "max_cp": "2098",
+        "attack": "193",
+        "defense": "212",
+        "stamina": "100",
+        "top_moves": [
+            "Counter/Fire Punch",
+            "Rock Smash/Fire Punch",
+            "Counter/Ice Punch",
+            "Rock Smash/Ice Punch"
+        ]
+    },
+    "108": {
+        "name": "Lickitung",
+        "evolution": "Lickitung",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1322",
+        "attack": "108",
+        "defense": "137",
+        "stamina": "180",
+        "top_moves": [
+            "Zen Headbutt/Power Whip",
+            "Zen Headbutt/Hyper Beam",
+            "Lick/Power Whip",
+            "Lick/Hyper Beam"
+        ]
+    },
+    "109": {
+        "name": "Koffing",
+        "evolution": "Koffing » Weezing",
+        "type": [
+            "Poison"
+        ],
+        "max_cp": "1091",
+        "attack": "119",
+        "defense": "164",
+        "stamina": "80",
+        "top_moves": [
+            "Acid/Dark Pulse",
+            "Acid/Sludge Bomb",
+            "Acid/Sludge",
+            "Tackle/Dark Pulse"
+        ]
+    },
+    "110": {
+        "name": "Weezing",
+        "evolution": "Koffing » Weezing",
+        "type": [
+            "Poison"
+        ],
+        "max_cp": "2183",
+        "attack": "174",
+        "defense": "221",
+        "stamina": "130",
+        "top_moves": [
+            "Acid/Shadow Ball",
+            "Tackle/Shadow Ball",
+            "Infestation/Shadow Ball",
+            "Acid/Dark Pulse"
+        ]
+    },
+    "111": {
+        "name": "Rhyhorn",
+        "evolution": "Rhyhorn » Rhydon",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "max_cp": "1679",
+        "attack": "140",
+        "defense": "157",
+        "stamina": "160",
+        "top_moves": [
+            "Rock Smash/Bulldoze",
+            "Mud Slap/Bulldoze",
+            "Rock Smash/Horn Attack",
+            "Rock Smash/Stomp"
+        ]
+    },
+    "112": {
+        "name": "Rhydon",
+        "evolution": "Rhyhorn » Rhydon",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "max_cp": "3300",
+        "attack": "222",
+        "defense": "206",
+        "stamina": "210",
+        "top_moves": [
+            "Rock Smash/Surf",
+            "Rock Smash/Earthquake",
+            "Mud Slap/Surf",
+            "Mud Slap/Earthquake"
+        ]
+    },
+    "113": {
+        "name": "Chansey",
+        "evolution": "Chansey » Blissey",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1469",
+        "attack": "60",
+        "defense": "176",
+        "stamina": "500",
+        "top_moves": [
+            "Zen Headbutt/Dazzling Gleam",
+            "Pound/Dazzling Gleam",
+            "Zen Headbutt/Hyper Beam",
+            "Pound/Hyper Beam"
+        ]
+    },
+    "114": {
+        "name": "Tangela",
+        "evolution": "Tangela",
+        "type": [
+            "Grass"
+        ],
+        "max_cp": "2208",
+        "attack": "183",
+        "defense": "205",
+        "stamina": "130",
+        "top_moves": [
+            "grass/type with 2208 MAX CP. Tangela best moveset is Vine Whip and Power Whip."
+        ]
+    },
+    "115": {
+        "name": "Kangaskhan",
+        "evolution": "Kangaskhan",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "2463",
+        "attack": "181",
+        "defense": "165",
+        "stamina": "210",
+        "top_moves": [
+            "Mud Slap/Outrage",
+            "Mud Slap/Crunch",
+            "Low Kick/Outrage",
+            "Low Kick/Crunch"
+        ]
+    },
+    "116": {
+        "name": "Horsea",
+        "evolution": "Horsea » Seadra » Kingdra",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "921",
+        "attack": "129",
+        "defense": "125",
+        "stamina": "60",
+        "top_moves": [
+            "Water Gun/Dragon Pulse",
+            "Bubble/Dragon Pulse",
+            "Water Gun/Bubble Beam",
+            "Bubble/Bubble Beam"
+        ]
+    },
+    "117": {
+        "name": "Seadra",
+        "evolution": "Horsea » Seadra » Kingdra",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "1979",
+        "attack": "187",
+        "defense": "182",
+        "stamina": "110",
+        "top_moves": [
+            "Dragon Breath/Dragon Pulse",
+            "Dragon Breath/Aurora Beam",
+            "Water Gun/Dragon Pulse",
+            "Dragon Breath/Blizzard"
+        ]
+    },
+    "118": {
+        "name": "Goldeen",
+        "evolution": "Goldeen » Seaking",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "1006",
+        "attack": "123",
+        "defense": "115",
+        "stamina": "90",
+        "top_moves": [
+            "Peck/Aqua Tail",
+            "Peck/Water Pulse",
+            "Mud Shot/Aqua Tail",
+            "Peck/Horn Attack"
+        ]
+    },
+    "119": {
+        "name": "Seaking",
+        "evolution": "Goldeen » Seaking",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "2040",
+        "attack": "175",
+        "defense": "154",
+        "stamina": "160",
+        "top_moves": [
+            "Waterfall/Icy Wind",
+            "Waterfall/Ice Beam",
+            "Waterfall/Drill Run",
+            "Waterfall/Water Pulse"
+        ]
+    },
+    "120": {
+        "name": "Staryu",
+        "evolution": "Staryu » Starmie",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "926",
+        "attack": "137",
+        "defense": "112",
+        "stamina": "60",
+        "top_moves": [
+            "Tackle/Power Gem",
+            "Water Gun/Power Gem",
+            "Quick Attack/Power Gem",
+            "Tackle/Bubble Beam"
+        ]
+    },
+    "121": {
+        "name": "Starmie",
+        "evolution": "Staryu » Starmie",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "max_cp": "2303",
+        "attack": "210",
+        "defense": "184",
+        "stamina": "120",
+        "top_moves": [
+            "Hidden Power/Power Gem",
+            "Tackle/Power Gem",
+            "Water Gun/Power Gem",
+            "Hidden Power/Psybeam"
+        ]
+    },
+    "122": {
+        "name": "Mr-Mime",
+        "evolution": "Mr-mime",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "max_cp": "1984",
+        "attack": "192",
+        "defense": "233",
+        "stamina": "80",
+        "top_moves": [
+            "Confusion/Shadow Ball",
+            "Zen Headbutt/Shadow Ball",
+            "Confusion/Psybeam",
+            "Zen Headbutt/Psybeam"
+        ]
+    },
+    "123": {
+        "name": "Scyther",
+        "evolution": "Scyther » Scizor",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "max_cp": "2464",
+        "attack": "218",
+        "defense": "170",
+        "stamina": "140",
+        "top_moves": [
+            "Steel Wing/Bug Buzz",
+            "Steel Wing/Aerial Ace",
+            "Steel Wing/Night Slash",
+            "Steel Wing/X Scissor"
+        ]
+    },
+    "124": {
+        "name": "Jynx",
+        "evolution": "Smoochum » Jynx",
+        "type": [
+            "Ice",
+            "Psychic"
+        ],
+        "max_cp": "2512",
+        "attack": "223",
+        "defense": "182",
+        "stamina": "130",
+        "top_moves": [
+            "Confusion/Psyshock",
+            "Frost Breath/Psyshock",
+            "Confusion/Avalanche",
+            "Pound/Psyshock"
+        ]
+    },
+    "125": {
+        "name": "Electabuzz",
+        "evolution": "Elekid » Electabuzz",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "2196",
+        "attack": "198",
+        "defense": "173",
+        "stamina": "130",
+        "top_moves": [
+            "Low Kick/Thunderbolt",
+            "Low Kick/Thunder Punch",
+            "Thunder Shock/Thunderbolt",
+            "Low Kick/Thunder"
+        ]
+    },
+    "126": {
+        "name": "Magmar",
+        "evolution": "Magby » Magmar",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "2254",
+        "attack": "206",
+        "defense": "169",
+        "stamina": "130",
+        "top_moves": [
+            "Ember/Fire Punch",
+            "Karate Chop/Fire Punch",
+            "Ember/Flamethrower",
+            "Ember/Fire Blast"
+        ]
+    },
+    "127": {
+        "name": "Pinsir",
+        "evolution": "Pinsir",
+        "type": [
+            "Bug"
+        ],
+        "max_cp": "2770",
+        "attack": "238",
+        "defense": "197",
+        "stamina": "130",
+        "top_moves": [
+            "Rock Smash/X Scissor",
+            "Rock Smash/Submission",
+            "Rock Smash/Vice Grip",
+            "Rock Smash/Close Combat"
+        ]
+    },
+    "128": {
+        "name": "Tauros",
+        "evolution": "Tauros",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "2488",
+        "attack": "198",
+        "defense": "197",
+        "stamina": "150",
+        "top_moves": [
+            "Zen Headbutt/Horn Attack",
+            "Zen Headbutt/Iron Head",
+            "Zen Headbutt/Earthquake",
+            "Tackle/Horn Attack"
+        ]
+    },
+    "129": {
+        "name": "Magikarp",
+        "evolution": "Magikarp » Gyarados",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "220",
+        "attack": "29",
+        "defense": "102",
+        "stamina": "40",
+        "top_moves": [
+            "Splash/Struggle"
+        ]
+    },
+    "130": {
+        "name": "Gyarados",
+        "evolution": "Magikarp » Gyarados",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "max_cp": "3281",
+        "attack": "237",
+        "defense": "197",
+        "stamina": "190",
+        "top_moves": [
+            "Waterfall/Outrage",
+            "Waterfall/Crunch",
+            "Dragon Tail/Outrage",
+            "Dragon Tail/Crunch"
+        ]
+    },
+    "131": {
+        "name": "Lapras",
+        "evolution": "Lapras",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "max_cp": "2603",
+        "attack": "165",
+        "defense": "180",
+        "stamina": "260",
+        "top_moves": [
+            "Frost Breath/Dragon Pulse",
+            "Frost Breath/Ice Beam",
+            "Ice Shard/Dragon Pulse",
+            "Ice Shard/Ice Beam"
+        ]
+    },
+    "132": {
+        "name": "Ditto",
+        "evolution": "Ditto"
+    },
+    "133": {
+        "name": "Eevee",
+        "evolution": "Eevee » Vaporeon/Jolteon/Flareon/Espeon/Umbreon",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "969",
+        "attack": "104",
+        "defense": "121",
+        "stamina": "110",
+        "top_moves": [
+            "Tackle/Dig",
+            "Quick Attack/Dig",
+            "Tackle/Body Slam",
+            "Quick Attack/Body Slam"
+        ]
+    },
+    "134": {
+        "name": "Vaporeon",
+        "evolution": "Eevee » Vaporeon/Jolteon/Flareon/Espeon/Umbreon",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "3157",
+        "attack": "205",
+        "defense": "177",
+        "stamina": "260",
+        "top_moves": [
+            "Water Gun/Aqua Tail",
+            "Water Gun/Water Pulse",
+            "Water Gun/Hydro Pump"
+        ]
+    },
+    "135": {
+        "name": "Jolteon",
+        "evolution": "Eevee » Vaporeon/Jolteon/Flareon/Espeon/Umbreon",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "2730",
+        "attack": "232",
+        "defense": "201",
+        "stamina": "130",
+        "top_moves": [
+            "Volt Switch/Discharge",
+            "Thunder Shock/Discharge",
+            "Volt Switch/Thunderbolt",
+            "Thunder Shock/Thunderbolt"
+        ]
+    },
+    "136": {
+        "name": "Flareon",
+        "evolution": "Eevee » Vaporeon/Jolteon/Flareon/Espeon/Umbreon",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "2904",
+        "attack": "246",
+        "defense": "204",
+        "stamina": "130",
+        "top_moves": [
+            "Fire Spin/Overheat",
+            "Fire Spin/Flamethrower",
+            "Fire Spin/Fire Blast",
+            "Ember/Overheat"
+        ]
+    },
+    "137": {
+        "name": "Porygon",
+        "evolution": "Porygon » Porygon2",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1567",
+        "attack": "153",
+        "defense": "139",
+        "stamina": "130",
+        "top_moves": [
+            "Zen Headbutt/Discharge",
+            "Hidden Power/Discharge",
+            "Zen Headbutt/Solar Beam",
+            "Tackle/Discharge"
+        ]
+    },
+    "138": {
+        "name": "Omanyte",
+        "evolution": "Omanyte » Omastar",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "max_cp": "1345",
+        "attack": "155",
+        "defense": "174",
+        "stamina": "70",
+        "top_moves": [
+            "Water Gun/Ancient Power",
+            "Mud Shot/Ancient Power",
+            "Water Gun/Rock Blast",
+            "Water Gun/Rock Tomb"
+        ]
+    },
+    "139": {
+        "name": "Omastar",
+        "evolution": "Omanyte » Omastar",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "max_cp": "2685",
+        "attack": "207",
+        "defense": "227",
+        "stamina": "140",
+        "top_moves": [
+            "Rock Throw/Ancient Power",
+            "Rock Throw/Rock Slide",
+            "Rock Throw/Rock Blast",
+            "Water Gun/Ancient Power"
+        ]
+    },
+    "140": {
+        "name": "Kabuto",
+        "evolution": "Kabuto » Kabutops",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "max_cp": "1172",
+        "attack": "148",
+        "defense": "162",
+        "stamina": "60",
+        "top_moves": [
+            "Scratch/Ancient Power",
+            "Scratch/Rock Tomb",
+            "Mud Shot/Ancient Power",
+            "Scratch/Aqua Jet"
+        ]
+    },
+    "141": {
+        "name": "Kabutops",
+        "evolution": "Kabuto » Kabutops",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "max_cp": "2517",
+        "attack": "220",
+        "defense": "203",
+        "stamina": "120",
+        "top_moves": [
+            "Rock Smash/Ancient Power",
+            "Rock Smash/Water Pulse",
+            "Mud Shot/Ancient Power",
+            "Fury Cutter/Ancient Power"
+        ]
+    },
+    "142": {
+        "name": "Aerodactyl",
+        "evolution": "Aerodactyl",
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "max_cp": "2608",
+        "attack": "221",
+        "defense": "164",
+        "stamina": "160",
+        "top_moves": [
+            "Steel Wing/Ancient Power",
+            "Bite/Ancient Power",
+            "Steel Wing/Hyper Beam",
+            "Steel Wing/Iron Head"
+        ]
+    },
+    "143": {
+        "name": "Snorlax",
+        "evolution": "Snorlax",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "3355",
+        "attack": "190",
+        "defense": "190",
+        "stamina": "320",
+        "top_moves": [
+            "Zen Headbutt/Body Slam",
+            "Zen Headbutt/Hyper Beam",
+            "Zen Headbutt/Heavy Slam",
+            "Zen Headbutt/Earthquake"
+        ]
+    },
+    "144": {
+        "name": "Articuno",
+        "evolution": "Articuno",
+        "type": [
+            "Ice",
+            "Flying"
+        ],
+        "max_cp": "2933",
+        "attack": "192",
+        "defense": "249",
+        "stamina": "180",
+        "top_moves": [
+            "Frost Breath/Icy Wind",
+            "Frost Breath/Ice Beam",
+            "Frost Breath/Blizzard"
+        ]
+    },
+    "145": {
+        "name": "Zapdos",
+        "evolution": "Zapdos",
+        "type": [
+            "Electric",
+            "Flying"
+        ],
+        "max_cp": "3330",
+        "attack": "253",
+        "defense": "188",
+        "stamina": "180",
+        "top_moves": [
+            "Thunder Shock/Discharge",
+            "Charge Beam/Discharge",
+            "Thunder Shock/Thunderbolt",
+            "Charge Beam/Thunderbolt"
+        ]
+    },
+    "146": {
+        "name": "Moltres",
+        "evolution": "Moltres",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "max_cp": "3272",
+        "attack": "251",
+        "defense": "184",
+        "stamina": "180",
+        "top_moves": [
+            "Fire Spin/Overheat",
+            "Fire Spin/Flamethrower",
+            "Fire Spin/Fire Blast",
+            "Ember/Overheat"
+        ]
+    },
+    "147": {
+        "name": "Dratini",
+        "evolution": "Dratini » Dragonair » Dragonite",
+        "type": [
+            "Dragon"
+        ],
+        "max_cp": "860",
+        "attack": "119",
+        "defense": "94",
+        "stamina": "82",
+        "top_moves": [
+            "Iron Tail/Wrap",
+            "Iron Tail/Aqua Tail",
+            "Iron Tail/Twister",
+            "Dragon Breath/Wrap"
+        ]
+    },
+    "148": {
+        "name": "Dragonair",
+        "evolution": "Dratini » Dragonair » Dragonite",
+        "type": [
+            "Dragon"
+        ],
+        "max_cp": "1609",
+        "attack": "163",
+        "defense": "138",
+        "stamina": "122",
+        "top_moves": [
+            "Iron Tail/Wrap",
+            "Iron Tail/Dragon Pulse",
+            "Iron Tail/Aqua Tail",
+            "Dragon Breath/Wrap"
+        ]
+    },
+    "149": {
+        "name": "Dragonite",
+        "evolution": "Dratini » Dragonair » Dragonite",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "max_cp": "3581",
+        "attack": "263",
+        "defense": "201",
+        "stamina": "182",
+        "top_moves": [
+            "Steel Wing/Outrage",
+            "Dragon Tail/Outrage",
+            "Dragon Breath/Outrage",
+            "Steel Wing/Dragon Pulse"
+        ]
+    },
+    "150": {
+        "name": "Mewtwo",
+        "evolution": "Mewtwo",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "3982",
+        "attack": "300",
+        "defense": "182",
+        "stamina": "193",
+        "top_moves": [
+            "Confusion/Shadow Ball",
+            "Confusion/Hyper Beam",
+            "Confusion/Focus Blast",
+            "Psycho Cut/Shadow Ball"
+        ]
+    },
+    "151": {
+        "name": "Mew",
+        "evolution": "Mew",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "3090",
+        "attack": "210",
+        "defense": "210",
+        "stamina": "200",
+        "top_moves": [
+            "Steel Wing/Ancient Power",
+            "Steel Wing/Flame Charge",
+            "Dragon Tail/Ancient Power",
+            "Dragon Tail/Flame Charge"
+        ]
+    },
+    "152": {
+        "name": "Chikorita",
+        "evolution": "Chikorita » Bayleef » Meganium",
+        "type": [
+            "Grass"
+        ],
+        "max_cp": "801",
+        "attack": "92",
+        "defense": "122",
+        "stamina": "90",
+        "top_moves": [
+            "Vine Whip/Energy Ball",
+            "Vine Whip/Grass Knot",
+            "Tackle/Energy Ball",
+            "Tackle/Grass Knot"
+        ]
+    },
+    "153": {
+        "name": "Bayleef",
+        "evolution": "Chikorita » Bayleef » Meganium",
+        "type": [
+            "Grass"
+        ],
+        "max_cp": "1296",
+        "attack": "122",
+        "defense": "155",
+        "stamina": "120",
+        "top_moves": [
+            "Razor Leaf/Ancient Power",
+            "Razor Leaf/Energy Ball",
+            "Razor Leaf/Grass Knot",
+            "Tackle/Ancient Power"
+        ]
+    },
+    "154": {
+        "name": "Meganium",
+        "evolution": "Chikorita » Bayleef » Meganium",
+        "type": [
+            "Grass"
+        ],
+        "max_cp": "2227",
+        "attack": "168",
+        "defense": "202",
+        "stamina": "160",
+        "top_moves": [
+            "Razor Leaf/Solar Beam",
+            "Razor Leaf/Earthquake",
+            "Razor Leaf/Petal Blizzard",
+            "Vine Whip/Solar Beam"
+        ]
+    },
+    "155": {
+        "name": "Cyndaquil",
+        "evolution": "Cyndaquil » Quilava » Typhlosion",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "831",
+        "attack": "116",
+        "defense": "96",
+        "stamina": "78",
+        "top_moves": [
+            "Tackle/Flame Charge",
+            "Ember/Flame Charge",
+            "Tackle/Flamethrower",
+            "Ember/Flamethrower"
+        ]
+    },
+    "156": {
+        "name": "Quilava",
+        "evolution": "Cyndaquil » Quilava » Typhlosion",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "1484",
+        "attack": "158",
+        "defense": "129",
+        "stamina": "116",
+        "top_moves": [
+            "Tackle/Flame Charge",
+            "Ember/Flame Charge",
+            "Tackle/Dig",
+            "Ember/Dig"
+        ]
+    },
+    "157": {
+        "name": "Typhlosion",
+        "evolution": "Cyndaquil » Quilava » Typhlosion",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "2686",
+        "attack": "223",
+        "defense": "176",
+        "stamina": "156",
+        "top_moves": [
+            "Shadow Claw/Solar Beam",
+            "Shadow Claw/Overheat",
+            "Shadow Claw/Fire Blast",
+            "Ember/Solar Beam"
+        ]
+    },
+    "158": {
+        "name": "Totodile",
+        "evolution": "Totodile » Croconaw » Feraligatr",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "1011",
+        "attack": "117",
+        "defense": "116",
+        "stamina": "100",
+        "top_moves": [
+            "Scratch/Crunch",
+            "Water Gun/Crunch",
+            "Scratch/Water Pulse",
+            "Scratch/Aqua Jet"
+        ]
+    },
+    "159": {
+        "name": "Croconaw",
+        "evolution": "Totodile » Croconaw » Feraligatr",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "1598",
+        "attack": "150",
+        "defense": "151",
+        "stamina": "130",
+        "top_moves": [
+            "Scratch/Crunch",
+            "Water Gun/Crunch",
+            "Scratch/Ice Punch",
+            "Scratch/Water Pulse"
+        ]
+    },
+    "160": {
+        "name": "Feraligatr",
+        "evolution": "Totodile » Croconaw » Feraligatr",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "2721",
+        "attack": "205",
+        "defense": "197",
+        "stamina": "170",
+        "top_moves": [
+            "Waterfall/Crunch",
+            "Waterfall/Ice Beam",
+            "Bite/Crunch",
+            "Waterfall/Hydro Pump"
+        ]
+    },
+    "161": {
+        "name": "Sentret",
+        "evolution": "Sentret » Furret",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "519",
+        "attack": "79",
+        "defense": "77",
+        "stamina": "70",
+        "top_moves": [
+            "Scratch/Dig",
+            "Scratch/Grass Knot",
+            "Quick Attack/Dig",
+            "Scratch/Brick Break"
+        ]
+    },
+    "162": {
+        "name": "Furret",
+        "evolution": "Sentret » Furret",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1667",
+        "attack": "148",
+        "defense": "130",
+        "stamina": "170",
+        "top_moves": [
+            "Sucker Punch/Dig",
+            "Quick Attack/Dig",
+            "Sucker Punch/Hyper Beam",
+            "Quick Attack/Hyper Beam"
+        ]
+    },
+    "163": {
+        "name": "Hoothoot",
+        "evolution": "Hoothoot » Noctowl",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "max_cp": "640",
+        "attack": "67",
+        "defense": "101",
+        "stamina": "120",
+        "top_moves": [
+            "Feint Attack/Aerial Ace",
+            "Peck/Aerial Ace",
+            "Feint Attack/Sky Attack",
+            "Feint Attack/Night Shade"
+        ]
+    },
+    "164": {
+        "name": "Noctowl",
+        "evolution": "Hoothoot » Noctowl",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "max_cp": "2040",
+        "attack": "145",
+        "defense": "179",
+        "stamina": "200",
+        "top_moves": [
+            "Extrasensory/Sky Attack",
+            "Wing Attack/Sky Attack",
+            "Extrasensory/Night Shade",
+            "Wing Attack/Night Shade"
+        ]
+    },
+    "165": {
+        "name": "Ledyba",
+        "evolution": "Ledyba » Ledian",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "max_cp": "663",
+        "attack": "72",
+        "defense": "142",
+        "stamina": "80",
+        "top_moves": [
+            "Tackle/Silver Wind",
+            "Bug Bite/Silver Wind",
+            "Tackle/Aerial Ace",
+            "Bug Bite/Aerial Ace"
+        ]
+    },
+    "166": {
+        "name": "Ledian",
+        "evolution": "Ledyba » Ledian",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "max_cp": "1275",
+        "attack": "107",
+        "defense": "209",
+        "stamina": "110",
+        "top_moves": [
+            "Struggle Bug/Silver Wind",
+            "Bug Bite/Silver Wind",
+            "Struggle Bug/Bug Buzz",
+            "Struggle Bug/Aerial Ace"
+        ]
+    },
+    "167": {
+        "name": "Spinarak",
+        "evolution": "Spinarak » Ariados",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "max_cp": "685",
+        "attack": "105",
+        "defense": "73",
+        "stamina": "80",
+        "top_moves": [
+            "Bug Bite/Night Slash",
+            "Bug Bite/Signal Beam",
+            "Poison Sting/Night Slash",
+            "Poison Sting/Signal Beam"
+        ]
+    },
+    "168": {
+        "name": "Ariados",
+        "evolution": "Spinarak » Ariados",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "max_cp": "1636",
+        "attack": "161",
+        "defense": "128",
+        "stamina": "140",
+        "top_moves": [
+            "Infestation/Shadow Sneak",
+            "Poison Sting/Shadow Sneak",
+            "Infestation/Cross Poison",
+            "Poison Sting/Cross Poison"
+        ]
+    },
+    "169": {
+        "name": "Crobat",
+        "evolution": "Zubat » Golbat » Crobat",
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "max_cp": "2466",
+        "attack": "194",
+        "defense": "178",
+        "stamina": "170",
+        "top_moves": [
+            "Bite/Shadow Ball",
+            "Air Slash/Shadow Ball",
+            "Bite/Sludge Bomb",
+            "Air Slash/Sludge Bomb"
+        ]
+    },
+    "170": {
+        "name": "Chinchou",
+        "evolution": "Chinchou » Lanturn",
+        "type": [
+            "Water",
+            "Electric"
+        ],
+        "max_cp": "1067",
+        "attack": "106",
+        "defense": "106",
+        "stamina": "150",
+        "top_moves": [
+            "Bubble/Thunderbolt",
+            "Bubble/Water Pulse",
+            "Bubble/Bubble Beam",
+            "Spark/Thunderbolt"
+        ]
+    },
+    "171": {
+        "name": "Lanturn",
+        "evolution": "Chinchou » Lanturn",
+        "type": [
+            "Water",
+            "Electric"
+        ],
+        "max_cp": "2077",
+        "attack": "146",
+        "defense": "146",
+        "stamina": "250",
+        "top_moves": [
+            "Water Gun/Thunderbolt",
+            "Water Gun/Hydro Pump",
+            "Charge Beam/Thunderbolt",
+            "Water Gun/Thunder"
+        ]
+    },
+    "172": {
+        "name": "Pichu",
+        "evolution": "Pichu » Pikachu » Raichu",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "376",
+        "attack": "77",
+        "defense": "63",
+        "stamina": "40",
+        "top_moves": [
+            "Quick Attack/Disarming Voice",
+            "Thunder Shock/Disarming Voice",
+            "Quick Attack/Thunderbolt",
+            "Thunder Shock/Thunderbolt"
+        ]
+    },
+    "173": {
+        "name": "Cleffa",
+        "evolution": "Cleffa » Clefairy » Clefable",
+        "type": [
+            "Fairy"
+        ],
+        "max_cp": "620",
+        "attack": "75",
+        "defense": "91",
+        "stamina": "100",
+        "top_moves": [
+            "Zen Headbutt/Psyshock",
+            "Pound/Psyshock",
+            "Zen Headbutt/Grass Knot",
+            "Pound/Grass Knot"
+        ]
+    },
+    "174": {
+        "name": "Igglybuff",
+        "evolution": "Igglybuff » Jigglypuff » Wigglytuff",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "max_cp": "512",
+        "attack": "69",
+        "defense": "34",
+        "stamina": "180",
+        "top_moves": [
+            "Feint Attack/Shadow Ball",
+            "Pound/Shadow Ball",
+            "Feint Attack/Wild Charge",
+            "Pound/Wild Charge"
+        ]
+    },
+    "175": {
+        "name": "Togepi",
+        "evolution": "Togepi » Togetic",
+        "type": [
+            "Fairy"
+        ],
+        "max_cp": "540",
+        "attack": "67",
+        "defense": "116",
+        "stamina": "70",
+        "top_moves": [
+            "Zen Headbutt/Ancient Power",
+            "Zen Headbutt/Dazzling Gleam",
+            "Hidden Power/Ancient Power",
+            "Zen Headbutt/Psyshock"
+        ]
+    },
+    "176": {
+        "name": "Togetic",
+        "evolution": "Togepi » Togetic",
+        "type": [
+            "Fairy",
+            "Flying"
+        ],
+        "max_cp": "1543",
+        "attack": "139",
+        "defense": "191",
+        "stamina": "110",
+        "top_moves": [
+            "Steel Wing/Ancient Power",
+            "Steel Wing/Dazzling Gleam",
+            "Steel Wing/Aerial Ace",
+            "Zen Headbutt/Ancient Power"
+        ]
+    },
+    "177": {
+        "name": "Natu",
+        "evolution": "Natu » Xatu",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "max_cp": "925",
+        "attack": "134",
+        "defense": "89",
+        "stamina": "80",
+        "top_moves": [
+            "Peck/Psyshock",
+            "Peck/Drill Peck",
+            "Quick Attack/Psyshock",
+            "Quick Attack/Drill Peck"
+        ]
+    },
+    "178": {
+        "name": "Xatu",
+        "evolution": "Natu » Xatu",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "max_cp": "1975",
+        "attack": "192",
+        "defense": "146",
+        "stamina": "130",
+        "top_moves": [
+            "Air Slash/Aerial Ace",
+            "Air Slash/Ominous Wind",
+            "Feint Attack/Aerial Ace",
+            "Feint Attack/Ominous Wind"
+        ]
+    },
+    "179": {
+        "name": "Mareep",
+        "evolution": "Mareep » Flaaffy » Ampharos",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "887",
+        "attack": "114",
+        "defense": "82",
+        "stamina": "110",
+        "top_moves": [
+            "Tackle/Discharge",
+            "Thunder Shock/Discharge",
+            "Tackle/Thunderbolt",
+            "Tackle/Body Slam"
+        ]
+    },
+    "180": {
+        "name": "Flaaffy",
+        "evolution": "Mareep » Flaaffy » Ampharos",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "1402",
+        "attack": "145",
+        "defense": "112",
+        "stamina": "140",
+        "top_moves": [
+            "Tackle/Discharge",
+            "Tackle/Power Gem",
+            "Tackle/Thunderbolt",
+            "Charge Beam/Discharge"
+        ]
+    },
+    "181": {
+        "name": "Ampharos",
+        "evolution": "Mareep » Flaaffy » Ampharos",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "2695",
+        "attack": "211",
+        "defense": "172",
+        "stamina": "180",
+        "top_moves": [
+            "Volt Switch/Focus Blast",
+            "Volt Switch/Zap Cannon",
+            "Charge Beam/Focus Blast",
+            "Charge Beam/Zap Cannon"
+        ]
+    },
+    "182": {
+        "name": "Bellossom",
+        "evolution": "Oddish » Gloom » Vileplume/Bellossom",
+        "type": [
+            "Grass"
+        ],
+        "max_cp": "2108",
+        "attack": "169",
+        "defense": "189",
+        "stamina": "150",
+        "top_moves": [
+            "Razor Leaf/Leaf Blade",
+            "Razor Leaf/Dazzling Gleam",
+            "Acid/Leaf Blade",
+            "Acid/Dazzling Gleam"
+        ]
+    },
+    "183": {
+        "name": "Marill",
+        "evolution": "Marill » Azumarill » Azurill",
+        "type": [
+            "Water",
+            "Fairy"
+        ],
+        "max_cp": "420",
+        "attack": "37",
+        "defense": "93",
+        "stamina": "140",
+        "top_moves": [
+            "Tackle/Body Slam",
+            "Tackle/Aqua Tail",
+            "Bubble/Body Slam",
+            "Bubble/Aqua Tail"
+        ]
+    },
+    "184": {
+        "name": "Azumarill",
+        "evolution": "Marill » Azumarill » Azurill",
+        "type": [
+            "Water",
+            "Fairy"
+        ],
+        "max_cp": "1503",
+        "attack": "112",
+        "defense": "152",
+        "stamina": "200",
+        "top_moves": [
+            "Rock Smash/Ice Beam",
+            "Rock Smash/Play Rough",
+            "Rock Smash/Hydro Pump",
+            "Bubble/Ice Beam"
+        ]
+    },
+    "185": {
+        "name": "Sudowoodo",
+        "evolution": "Sudowoodo",
+        "type": [
+            "Rock"
+        ],
+        "max_cp": "2065",
+        "attack": "167",
+        "defense": "198",
+        "stamina": "140",
+        "top_moves": [
+            "Rock Throw/Rock Slide",
+            "Counter/Rock Slide",
+            "Rock Throw/Earthquake",
+            "Rock Throw/Stone Edge"
+        ]
+    },
+    "186": {
+        "name": "Politoed",
+        "evolution": "Poliwag » Poliwhirl » Poliwrath/Politoed",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "2371",
+        "attack": "174",
+        "defense": "192",
+        "stamina": "180",
+        "top_moves": [
+            "Bubble/Blizzard",
+            "Bubble/Hydro Pump",
+            "Bubble/Surf",
+            "Bubble/Earthquake"
+        ]
+    },
+    "187": {
+        "name": "Hoppip",
+        "evolution": "Hoppip » Skiploom » Jumpluff",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "max_cp": "508",
+        "attack": "67",
+        "defense": "101",
+        "stamina": "70",
+        "top_moves": [
+            "Tackle/Dazzling Gleam",
+            "Tackle/Grass Knot",
+            "Tackle/Seed Bomb",
+            "Bullet Seed/Dazzling Gleam"
+        ]
+    },
+    "188": {
+        "name": "Skiploom",
+        "evolution": "Hoppip » Skiploom » Jumpluff",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "max_cp": "882",
+        "attack": "91",
+        "defense": "127",
+        "stamina": "110",
+        "top_moves": [
+            "Tackle/Dazzling Gleam",
+            "Tackle/Energy Ball",
+            "Tackle/Grass Knot",
+            "Bullet Seed/Dazzling Gleam"
+        ]
+    },
+    "189": {
+        "name": "Jumpluff",
+        "evolution": "Hoppip » Skiploom » Jumpluff",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "max_cp": "1553",
+        "attack": "118",
+        "defense": "197",
+        "stamina": "150",
+        "top_moves": [
+            "Infestation/Dazzling Gleam",
+            "Bullet Seed/Dazzling Gleam",
+            "Infestation/Energy Ball",
+            "Infestation/Solar Beam"
+        ]
+    },
+    "190": {
+        "name": "Aipom",
+        "evolution": "Aipom",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1188",
+        "attack": "136",
+        "defense": "112",
+        "stamina": "110",
+        "top_moves": [
+            "Scratch/Aerial Ace",
+            "Scratch/Low Sweep",
+            "Scratch/Swift",
+            "Astonish/Aerial Ace"
+        ]
+    },
+    "191": {
+        "name": "Sunkern",
+        "evolution": "Sunkern » Sunflora",
+        "type": [
+            "Grass"
+        ],
+        "max_cp": "316",
+        "attack": "55",
+        "defense": "55",
+        "stamina": "60",
+        "top_moves": [
+            "Razor Leaf/Energy Ball",
+            "Razor Leaf/Grass Knot",
+            "Razor Leaf/Seed Bomb",
+            "Cut/Energy Ball"
+        ]
+    },
+    "192": {
+        "name": "Sunflora",
+        "evolution": "Sunkern » Sunflora",
+        "type": [
+            "Grass"
+        ],
+        "max_cp": "2048",
+        "attack": "185",
+        "defense": "148",
+        "stamina": "150",
+        "top_moves": [
+            "Razor Leaf/Solar Beam",
+            "Razor Leaf/Sludge Bomb",
+            "Razor Leaf/Petal Blizzard",
+            "Bullet Seed/Solar Beam"
+        ]
+    },
+    "193": {
+        "name": "Yanma",
+        "evolution": "Yanma",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "max_cp": "1326",
+        "attack": "154",
+        "defense": "94",
+        "stamina": "130",
+        "top_moves": [
+            "Wing Attack/Ancient Power",
+            "Wing Attack/Silver Wind",
+            "Quick Attack/Ancient Power",
+            "Quick Attack/Silver Wind"
+        ]
+    },
+    "194": {
+        "name": "Wooper",
+        "evolution": "Wooper » Quagsire",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "max_cp": "596",
+        "attack": "75",
+        "defense": "75",
+        "stamina": "110",
+        "top_moves": [
+            "Water Gun/Dig",
+            "Mud Shot/Dig",
+            "Water Gun/Mud Bomb",
+            "Water Gun/Body Slam"
+        ]
+    },
+    "195": {
+        "name": "Quagsire",
+        "evolution": "Wooper » Quagsire",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "max_cp": "1929",
+        "attack": "152",
+        "defense": "152",
+        "stamina": "190",
+        "top_moves": [
+            "Water Gun/Sludge Bomb",
+            "Mud Shot/Sludge Bomb",
+            "Water Gun/Earthquake",
+            "Water Gun/Stone Edge"
+        ]
+    },
+    "196": {
+        "name": "Espeon",
+        "evolution": "Eevee » Vaporeon/Jolteon/Flareon/Espeon/Umbreon",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "3000",
+        "attack": "261",
+        "defense": "194",
+        "stamina": "130",
+        "top_moves": [
+            "Confusion/Psybeam",
+            "Zen Headbutt/Psybeam",
+            "Confusion/Futuresight",
+            "Zen Headbutt/Futuresight"
+        ]
+    },
+    "197": {
+        "name": "Umbreon",
+        "evolution": "Eevee » Vaporeon/Jolteon/Flareon/Espeon/Umbreon",
+        "type": [
+            "Dark"
+        ],
+        "max_cp": "2052",
+        "attack": "126",
+        "defense": "250",
+        "stamina": "190",
+        "top_moves": [
+            "Feint Attack/Dark Pulse",
+            "Snarl/Dark Pulse",
+            "Feint Attack/Foul Play",
+            "Snarl/Foul Play"
+        ]
+    },
+    "198": {
+        "name": "Murkrow",
+        "evolution": "Murkrow",
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "max_cp": "1392",
+        "attack": "175",
+        "defense": "87",
+        "stamina": "120",
+        "top_moves": [
+            "Feint Attack/Drill Peck",
+            "Peck/Drill Peck",
+            "Feint Attack/Dark Pulse",
+            "Peck/Dark Pulse"
+        ]
+    },
+    "199": {
+        "name": "Slowking",
+        "evolution": "Slowpoke » Slowbro/Slowking",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "max_cp": "2482",
+        "attack": "177",
+        "defense": "194",
+        "stamina": "190",
+        "top_moves": [
+            "Confusion/Fire Blast",
+            "Confusion/Blizzard",
+            "Water Gun/Fire Blast",
+            "Confusion/Psychic"
+        ]
+    },
+    "200": {
+        "name": "Misdreavus",
+        "evolution": "Misdreavus",
+        "type": [
+            "Ghost"
+        ],
+        "max_cp": "1781",
+        "attack": "167",
+        "defense": "167",
+        "stamina": "120",
+        "top_moves": [
+            "Hex/Dark Pulse",
+            "Astonish/Dark Pulse",
+            "Hex/Shadow Sneak",
+            "Hex/Ominous Wind"
+        ]
+    },
+    "201": {
+        "name": "Unown",
+        "evolution": "Unown",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "1022",
+        "attack": "136",
+        "defense": "91",
+        "stamina": "96",
+        "top_moves": [
+            "Hidden Power/Struggle"
+        ]
+    },
+    "202": {
+        "name": "Wobbuffet",
+        "evolution": "Wobbuffet",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "1024",
+        "attack": "60",
+        "defense": "106",
+        "stamina": "380",
+        "top_moves": [
+            "Counter/Mirror Coat"
+        ]
+    },
+    "203": {
+        "name": "Girafarig",
+        "evolution": "Girafarig",
+        "type": [
+            "Normal",
+            "Psychic"
+        ],
+        "max_cp": "1863",
+        "attack": "182",
+        "defense": "133",
+        "stamina": "140",
+        "top_moves": [
+            "Confusion/Thunderbolt",
+            "Tackle/Thunderbolt",
+            "Confusion/Mirror Coat",
+            "Confusion/Psychic"
+        ]
+    },
+    "204": {
+        "name": "Pineco",
+        "evolution": "Pineco » Forretress",
+        "type": [
+            "Bug"
+        ],
+        "max_cp": "1045",
+        "attack": "108",
+        "defense": "146",
+        "stamina": "100",
+        "top_moves": [
+            "Tackle/Sand Tomb",
+            "Tackle/Gyro Ball",
+            "Bug Bite/Sand Tomb",
+            "Bug Bite/Gyro Ball"
+        ]
+    },
+    "205": {
+        "name": "Forretress",
+        "evolution": "Pineco » Forretress",
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "max_cp": "2263",
+        "attack": "161",
+        "defense": "242",
+        "stamina": "150",
+        "top_moves": [
+            "Struggle Bug/Rock Tomb",
+            "Struggle Bug/Heavy Slam",
+            "Bug Bite/Rock Tomb",
+            "Bug Bite/Heavy Slam"
+        ]
+    },
+    "206": {
+        "name": "Dunsparce",
+        "evolution": "Dunsparce",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1615",
+        "attack": "131",
+        "defense": "131",
+        "stamina": "200",
+        "top_moves": [
+            "Bite/Dig",
+            "Bite/Drill Run",
+            "Bite/Rock Slide",
+            "Astonish/Dig"
+        ]
+    },
+    "207": {
+        "name": "Gligar",
+        "evolution": "Gligar",
+        "type": [
+            "Ground",
+            "Flying"
+        ],
+        "max_cp": "1758",
+        "attack": "143",
+        "defense": "204",
+        "stamina": "130",
+        "top_moves": [
+            "Wing Attack/Dig",
+            "Wing Attack/Aerial Ace",
+            "Fury Cutter/Dig",
+            "Wing Attack/Night Slash"
+        ]
+    },
+    "208": {
+        "name": "Steelix",
+        "evolution": "Onix » Steelix",
+        "type": [
+            "Steel",
+            "Ground"
+        ],
+        "max_cp": "2439",
+        "attack": "148",
+        "defense": "333",
+        "stamina": "150",
+        "top_moves": [
+            "Iron Tail/Crunch",
+            "Dragon Tail/Crunch",
+            "Iron Tail/Heavy Slam",
+            "Iron Tail/Earthquake"
+        ]
+    },
+    "209": {
+        "name": "Snubbull",
+        "evolution": "Snubbull » Granbull",
+        "type": [
+            "Fairy"
+        ],
+        "max_cp": "1124",
+        "attack": "137",
+        "defense": "89",
+        "stamina": "120",
+        "top_moves": [
+            "Bite/Crunch",
+            "Bite/Dazzling Gleam",
+            "Tackle/Crunch",
+            "Tackle/Dazzling Gleam"
+        ]
+    },
+    "210": {
+        "name": "Granbull",
+        "evolution": "Snubbull » Granbull",
+        "type": [
+            "Fairy"
+        ],
+        "max_cp": "2440",
+        "attack": "212",
+        "defense": "137",
+        "stamina": "180",
+        "top_moves": [
+            "Bite/Crunch",
+            "Bite/Play Rough",
+            "Snarl/Crunch",
+            "Snarl/Play Rough"
+        ]
+    },
+    "211": {
+        "name": "Qwilfish",
+        "evolution": "Qwilfish",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "max_cp": "1910",
+        "attack": "184",
+        "defense": "148",
+        "stamina": "130",
+        "top_moves": [
+            "Water Gun/Ice Beam",
+            "Poison Sting/Ice Beam",
+            "Water Gun/Aqua Tail",
+            "Poison Sting/Aqua Tail"
+        ]
+    },
+    "212": {
+        "name": "Scizor",
+        "evolution": "Scyther » Scizor",
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "max_cp": "2801",
+        "attack": "236",
+        "defense": "191",
+        "stamina": "140",
+        "top_moves": [
+            "Bullet Punch/Night Slash",
+            "Bullet Punch/X Scissor",
+            "Bullet Punch/Iron Head",
+            "Fury Cutter/Night Slash"
+        ]
+    },
+    "213": {
+        "name": "Shuckle",
+        "evolution": "Shuckle",
+        "type": [
+            "Bug",
+            "Rock"
+        ],
+        "max_cp": "300",
+        "attack": "17",
+        "defense": "396",
+        "stamina": "40",
+        "top_moves": [
+            "Rock Throw/Gyro Ball",
+            "Rock Throw/Rock Blast",
+            "Rock Throw/Stone Edge",
+            "Struggle Bug/Gyro Ball"
+        ]
+    },
+    "214": {
+        "name": "Heracross",
+        "evolution": "Heracross",
+        "type": [
+            "Bug",
+            "Fighting"
+        ],
+        "max_cp": "2938",
+        "attack": "234",
+        "defense": "189",
+        "stamina": "160",
+        "top_moves": [
+            "Counter/Earthquake",
+            "Counter/Close Combat",
+            "Counter/Megahorn",
+            "Struggle Bug/Earthquake"
+        ]
+    },
+    "215": {
+        "name": "Sneasel",
+        "evolution": "Sneasel",
+        "type": [
+            "Dark",
+            "Ice"
+        ],
+        "max_cp": "1868",
+        "attack": "189",
+        "defense": "157",
+        "stamina": "110",
+        "top_moves": [
+            "Feint Attack/Avalanche",
+            "Ice Shard/Avalanche",
+            "Feint Attack/Ice Punch",
+            "Feint Attack/Foul Play"
+        ]
+    },
+    "216": {
+        "name": "Teddiursa",
+        "evolution": "Teddiursa » Ursaring",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1184",
+        "attack": "142",
+        "defense": "93",
+        "stamina": "120",
+        "top_moves": [
+            "Scratch/Crunch",
+            "Scratch/Play Rough",
+            "Lick/Crunch",
+            "Lick/Play Rough"
+        ]
+    },
+    "217": {
+        "name": "Ursaring",
+        "evolution": "Teddiursa » Ursaring",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "2760",
+        "attack": "236",
+        "defense": "144",
+        "stamina": "180",
+        "top_moves": [
+            "Counter/Play Rough",
+            "Counter/Hyper Beam",
+            "Metal Claw/Play Rough",
+            "Metal Claw/Hyper Beam"
+        ]
+    },
+    "218": {
+        "name": "Slugma",
+        "evolution": "Slugma » Magcargo",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "750",
+        "attack": "118",
+        "defense": "71",
+        "stamina": "80",
+        "top_moves": [
+            "Rock Throw/Flame Charge",
+            "Rock Throw/Rock Slide",
+            "Rock Throw/Flame Burst",
+            "Ember/Flame Charge"
+        ]
+    },
+    "219": {
+        "name": "Magcargo",
+        "evolution": "Slugma » Magcargo",
+        "type": [
+            "Fire",
+            "Rock"
+        ],
+        "max_cp": "1543",
+        "attack": "139",
+        "defense": "209",
+        "stamina": "100",
+        "top_moves": [
+            "Rock Throw/Overheat",
+            "Rock Throw/Stone Edge",
+            "Rock Throw/Heat Wave",
+            "Ember/Overheat"
+        ]
+    },
+    "220": {
+        "name": "Swinub",
+        "evolution": "Swinub » Piloswine",
+        "type": [
+            "Ice",
+            "Ground"
+        ],
+        "max_cp": "663",
+        "attack": "90",
+        "defense": "74",
+        "stamina": "100",
+        "top_moves": [
+            "Tackle/Icy Wind",
+            "Tackle/Rock Slide",
+            "Tackle/Body Slam",
+            "Powder Snow/Icy Wind"
+        ]
+    },
+    "221": {
+        "name": "Piloswine",
+        "evolution": "Swinub » Piloswine",
+        "type": [
+            "Ice",
+            "Ground"
+        ],
+        "max_cp": "2284",
+        "attack": "181",
+        "defense": "147",
+        "stamina": "200",
+        "top_moves": [
+            "Ice Shard/Avalanche",
+            "Ice Shard/Bulldoze",
+            "Powder Snow/Avalanche",
+            "Ice Shard/Stone Edge"
+        ]
+    },
+    "222": {
+        "name": "Corsola",
+        "evolution": "Corsola",
+        "type": [
+            "Water",
+            "Rock"
+        ],
+        "max_cp": "1214",
+        "attack": "118",
+        "defense": "156",
+        "stamina": "110",
+        "top_moves": [
+            "Tackle/Power Gem",
+            "Bubble/Power Gem",
+            "Tackle/Rock Blast",
+            "Bubble/Rock Blast"
+        ]
+    },
+    "223": {
+        "name": "Remoraid",
+        "evolution": "Remoraid » Octillery",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "749",
+        "attack": "127",
+        "defense": "69",
+        "stamina": "70",
+        "top_moves": [
+            "Water Gun/Aurora Beam",
+            "Water Gun/Rock Blast",
+            "Water Gun/Water Pulse",
+            "Mud Shot/Aurora Beam"
+        ]
+    },
+    "224": {
+        "name": "Octillery",
+        "evolution": "Remoraid » Octillery",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "2124",
+        "attack": "197",
+        "defense": "141",
+        "stamina": "150",
+        "top_moves": [
+            "Water Gun/Aurora Beam",
+            "Water Gun/Water Pulse",
+            "Mud Shot/Aurora Beam",
+            "Water Gun/Gunk Shot"
+        ]
+    },
+    "225": {
+        "name": "Delibird",
+        "evolution": "Delibird",
+        "type": [
+            "Ice",
+            "Flying"
+        ],
+        "max_cp": "937",
+        "attack": "128",
+        "defense": "90",
+        "stamina": "90",
+        "top_moves": [
+            "Ice Shard/Icy Wind",
+            "Ice Shard/Aerial Ace",
+            "Quick Attack/Icy Wind",
+            "Ice Shard/Ice Punch"
+        ]
+    },
+    "226": {
+        "name": "Mantine",
+        "evolution": "Mantine",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "max_cp": "2032",
+        "attack": "148",
+        "defense": "260",
+        "stamina": "130",
+        "top_moves": [
+            "Bubble/Ice Beam",
+            "Wing Attack/Ice Beam",
+            "Bubble/Aerial Ace",
+            "Wing Attack/Aerial Ace"
+        ]
+    },
+    "227": {
+        "name": "Skarmory",
+        "evolution": "Skarmory",
+        "type": [
+            "Steel",
+            "Flying"
+        ],
+        "max_cp": "2032",
+        "attack": "148",
+        "defense": "260",
+        "stamina": "130",
+        "top_moves": [
+            "Steel Wing/Sky Attack",
+            "Steel Wing/Flash Cannon",
+            "Air Slash/Sky Attack",
+            "Steel Wing/Brave Bird"
+        ]
+    },
+    "228": {
+        "name": "Houndour",
+        "evolution": "Houndour » Houndoom",
+        "type": [
+            "Dark",
+            "Fire"
+        ],
+        "max_cp": "1110",
+        "attack": "152",
+        "defense": "93",
+        "stamina": "90",
+        "top_moves": [
+            "Feint Attack/Crunch",
+            "Ember/Crunch",
+            "Feint Attack/Dark Pulse",
+            "Ember/Dark Pulse"
+        ]
+    },
+    "229": {
+        "name": "Houndoom",
+        "evolution": "Houndour » Houndoom",
+        "type": [
+            "Dark",
+            "Fire"
+        ],
+        "max_cp": "2529",
+        "attack": "224",
+        "defense": "159",
+        "stamina": "150",
+        "top_moves": [
+            "Fire Fang/Crunch",
+            "Snarl/Crunch",
+            "Fire Fang/Fire Blast",
+            "Fire Fang/Foul Play"
+        ]
+    },
+    "230": {
+        "name": "Kingdra",
+        "evolution": "Horsea » Seadra » Kingdra",
+        "type": [
+            "Water",
+            "Dragon"
+        ],
+        "max_cp": "2424",
+        "attack": "194",
+        "defense": "194",
+        "stamina": "150",
+        "top_moves": [
+            "Waterfall/Outrage",
+            "Dragon Breath/Outrage",
+            "Waterfall/Blizzard",
+            "Waterfall/Hydro Pump"
+        ]
+    },
+    "231": {
+        "name": "Phanpy",
+        "evolution": "Phanpy » Donphan",
+        "type": [
+            "Ground"
+        ],
+        "max_cp": "1175",
+        "attack": "107",
+        "defense": "107",
+        "stamina": "180",
+        "top_moves": [
+            "Rock Smash/Bulldoze",
+            "Rock Smash/Rock Slide",
+            "Rock Smash/Body Slam",
+            "Tackle/Bulldoze"
+        ]
+    },
+    "232": {
+        "name": "Donphan",
+        "evolution": "Phanpy » Donphan",
+        "type": [
+            "Ground"
+        ],
+        "max_cp": "3022",
+        "attack": "214",
+        "defense": "214",
+        "stamina": "180",
+        "top_moves": [
+            "Counter/Play Rough",
+            "Counter/Heavy Slam",
+            "Tackle/Play Rough",
+            "Counter/Earthquake"
+        ]
+    },
+    "233": {
+        "name": "Porygon2",
+        "evolution": "Porygon » Porygon2",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "2546",
+        "attack": "198",
+        "defense": "183",
+        "stamina": "170",
+        "top_moves": [
+            "Hidden Power/Solar Beam",
+            "Hidden Power/Hyper Beam",
+            "Hidden Power/Zap Cannon",
+            "Charge Beam/Solar Beam"
+        ]
+    },
+    "234": {
+        "name": "Stantler",
+        "evolution": "Stantler",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1988",
+        "attack": "192",
+        "defense": "132",
+        "stamina": "146",
+        "top_moves": [
+            "Zen Headbutt/Wild Charge",
+            "Tackle/Wild Charge",
+            "Zen Headbutt/Stomp",
+            "Zen Headbutt/Megahorn"
+        ]
+    },
+    "235": {
+        "name": "Smeargle",
+        "evolution": "Smeargle",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "389",
+        "attack": "40",
+        "defense": "88",
+        "stamina": "110",
+        "top_moves": [
+            "Tackle/Struggle"
+        ]
+    },
+    "236": {
+        "name": "Tyrogue",
+        "evolution": "Tyrogue » Hitmonlee/Hitmonchan/Hitmontop",
+        "type": [
+            "Fighting"
+        ],
+        "max_cp": "404",
+        "attack": "64",
+        "defense": "64",
+        "stamina": "70",
+        "top_moves": [
+            "Rock Smash/Rock Slide",
+            "Rock Smash/Low Sweep",
+            "Rock Smash/Brick Break",
+            "Tackle/Rock Slide"
+        ]
+    },
+    "237": {
+        "name": "Hitmontop",
+        "evolution": "Tyrogue » Hitmonlee/Hitmonchan/Hitmontop",
+        "type": [
+            "Fighting"
+        ],
+        "max_cp": "1905",
+        "attack": "173",
+        "defense": "214",
+        "stamina": "100",
+        "top_moves": [
+            "Counter/Gyro Ball",
+            "Rock Smash/Gyro Ball",
+            "Counter/Stone Edge",
+            "Counter/Close Combat"
+        ]
+    },
+    "238": {
+        "name": "Smoochum",
+        "evolution": "Smoochum » Jynx",
+        "type": [
+            "Ice",
+            "Psychic"
+        ],
+        "max_cp": "1230",
+        "attack": "153",
+        "defense": "116",
+        "stamina": "90",
+        "top_moves": [
+            "Frost Breath/Psyshock",
+            "Pound/Psyshock",
+            "Frost Breath/Ice Beam",
+            "Pound/Ice Beam"
+        ]
+    },
+    "239": {
+        "name": "Elekid",
+        "evolution": "Elekid » Electabuzz",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "1073",
+        "attack": "135",
+        "defense": "110",
+        "stamina": "90",
+        "top_moves": [
+            "Low Kick/Discharge",
+            "Thunder Shock/Discharge",
+            "Low Kick/Thunder Punch",
+            "Low Kick/Brick Break"
+        ]
+    },
+    "240": {
+        "name": "Magby",
+        "evolution": "Magby » Magmar",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "1178",
+        "attack": "151",
+        "defense": "108",
+        "stamina": "90",
+        "top_moves": [
+            "Ember/Fire Punch",
+            "Karate Chop/Fire Punch",
+            "Ember/Flame Burst",
+            "Ember/Flamethrower"
+        ]
+    },
+    "241": {
+        "name": "Miltank",
+        "evolution": "Miltank",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "2312",
+        "attack": "157",
+        "defense": "211",
+        "stamina": "190",
+        "top_moves": [
+            "Zen Headbutt/Gyro Ball",
+            "Zen Headbutt/Body Slam",
+            "Tackle/Gyro Ball",
+            "Tackle/Body Slam"
+        ]
+    },
+    "242": {
+        "name": "Blissey",
+        "evolution": "Chansey » Blissey",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "3219",
+        "attack": "129",
+        "defense": "229",
+        "stamina": "510",
+        "top_moves": [
+            "Zen Headbutt/Dazzling Gleam",
+            "Pound/Dazzling Gleam",
+            "Zen Headbutt/Hyper Beam",
+            "Pound/Hyper Beam"
+        ]
+    },
+    "243": {
+        "name": "Raikou",
+        "evolution": "Raikou",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "3349",
+        "attack": "241",
+        "defense": "210",
+        "stamina": "180",
+        "top_moves": [
+            "Volt Switch/Wild Charge",
+            "Thunder Shock/Wild Charge",
+            "Volt Switch/Thunderbolt",
+            "Thunder Shock/Thunderbolt"
+        ]
+    },
+    "244": {
+        "name": "Entei",
+        "evolution": "Entei",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "3377",
+        "attack": "235",
+        "defense": "176",
+        "stamina": "230",
+        "top_moves": [
+            "Fire Fang/Overheat",
+            "Fire Spin/Overheat",
+            "Fire Fang/Flamethrower",
+            "Fire Fang/Fire Blast"
+        ]
+    },
+    "245": {
+        "name": "Suicune",
+        "evolution": "Suicune",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "2823",
+        "attack": "180",
+        "defense": "235",
+        "stamina": "200",
+        "top_moves": [
+            "Extrasensory/Water Pulse",
+            "Snarl/Water Pulse",
+            "Hidden Power/Water Pulse",
+            "Extrasensory/Bubble Beam"
+        ]
+    },
+    "246": {
+        "name": "Larvitar",
+        "evolution": "Larvitar » Pupitar » Tyranitar",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "max_cp": "904",
+        "attack": "115",
+        "defense": "93",
+        "stamina": "100",
+        "top_moves": [
+            "Bite/Crunch",
+            "Bite/Ancient Power",
+            "Rock Smash/Crunch",
+            "Rock Smash/Ancient Power"
+        ]
+    },
+    "247": {
+        "name": "Pupitar",
+        "evolution": "Larvitar » Pupitar » Tyranitar",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "max_cp": "1608",
+        "attack": "155",
+        "defense": "133",
+        "stamina": "140",
+        "top_moves": [
+            "Bite/Crunch",
+            "Bite/Ancient Power",
+            "Rock Smash/Crunch",
+            "Rock Smash/Ancient Power"
+        ]
+    },
+    "248": {
+        "name": "Tyranitar",
+        "evolution": "Larvitar » Pupitar » Tyranitar",
+        "type": [
+            "Rock",
+            "Dark"
+        ],
+        "max_cp": "3670",
+        "attack": "251",
+        "defense": "212",
+        "stamina": "200",
+        "top_moves": [
+            "Iron Tail/Crunch",
+            "Iron Tail/Fire Blast",
+            "Bite/Crunch",
+            "Iron Tail/Stone Edge"
+        ]
+    },
+    "249": {
+        "name": "Lugia",
+        "evolution": "Lugia",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "max_cp": "3598",
+        "attack": "193",
+        "defense": "323",
+        "stamina": "212",
+        "top_moves": [
+            "Dragon Tail/Sky Attack",
+            "Dragon Tail/Hydro Pump",
+            "Dragon Tail/Futuresight",
+            "Extrasensory/Sky Attack"
+        ]
+    },
+    "250": {
+        "name": "Ho-Oh",
+        "evolution": "Ho-oh",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "max_cp": "3889",
+        "attack": "239",
+        "defense": "274",
+        "stamina": "193",
+        "top_moves": [
+            "Steel Wing/Solar Beam",
+            "Steel Wing/Fire Blast",
+            "Extrasensory/Solar Beam",
+            "Steel Wing/Brave Bird"
+        ]
+    },
+    "251": {
+        "name": "Celebi",
+        "evolution": "Celebi",
+        "type": [
+            "Psychic",
+            "Grass"
+        ],
+        "max_cp": "3090",
+        "attack": "210",
+        "defense": "210",
+        "stamina": "200",
+        "top_moves": [
+            "Confusion/Dazzling Gleam",
+            "Confusion/Hyper Beam",
+            "Charge Beam/Dazzling Gleam",
+            "Confusion/Psychic"
+        ]
+    },
+    "252": {
+        "name": "Treecko",
+        "evolution": "Treecko » Grovyle » Sceptile",
+        "type": [
+            "Grass"
+        ],
+        "max_cp": "923",
+        "attack": "124",
+        "defense": "104",
+        "stamina": "80",
+        "top_moves": [
+            "Pound/Grass Knot",
+            "Pound/Energy Ball",
+            "Pound/Aerial Ace",
+            "Bullet Seed/Grass Knot"
+        ]
+    },
+    "253": {
+        "name": "Grovyle",
+        "evolution": "Treecko » Grovyle » Sceptile",
+        "type": [
+            "Grass"
+        ],
+        "max_cp": "1508",
+        "attack": "172",
+        "defense": "130",
+        "stamina": "100",
+        "top_moves": [
+            "Quick Attack/Leaf Blade",
+            "Bullet Seed/Leaf Blade",
+            "Quick Attack/Grass Knot",
+            "Quick Attack/Aerial Ace"
+        ]
+    },
+    "254": {
+        "name": "Sceptile",
+        "evolution": "Treecko » Grovyle » Sceptile",
+        "type": [
+            "Grass"
+        ],
+        "max_cp": "2584",
+        "attack": "223",
+        "defense": "180",
+        "stamina": "140",
+        "top_moves": [
+            "Bullet Seed/Leaf Blade",
+            "Fury Cutter/Leaf Blade",
+            "Bullet Seed/Aerial Ace",
+            "Fury Cutter/Aerial Ace"
+        ]
+    },
+    "255": {
+        "name": "Torchic",
+        "evolution": "Torchic » Combusken » Blaziken",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "959",
+        "attack": "130",
+        "defense": "92",
+        "stamina": "90",
+        "top_moves": [
+            "Scratch/Flame Charge",
+            "Ember/Flame Charge",
+            "Scratch/Flamethrower",
+            "Scratch/Rock Tomb"
+        ]
+    },
+    "256": {
+        "name": "Combusken",
+        "evolution": "Torchic » Combusken » Blaziken",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "max_cp": "1472",
+        "attack": "163",
+        "defense": "115",
+        "stamina": "120",
+        "top_moves": [
+            "Peck/Flame Charge",
+            "Ember/Flame Charge",
+            "Peck/Rock Slide",
+            "Ember/Rock Slide"
+        ]
+    },
+    "257": {
+        "name": "Blaziken",
+        "evolution": "Torchic » Combusken » Blaziken",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "max_cp": "2631",
+        "attack": "240",
+        "defense": "141",
+        "stamina": "160",
+        "top_moves": [
+            "Counter/Overheat",
+            "Fire Spin/Overheat",
+            "Counter/Focus Blast",
+            "Fire Spin/Focus Blast"
+        ]
+    },
+    "258": {
+        "name": "Mudkip",
+        "evolution": "Mudkip » Marshtomp Swampert",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "981",
+        "attack": "126",
+        "defense": "93",
+        "stamina": "100",
+        "top_moves": [
+            "Tackle/Dig",
+            "Water Gun/Dig",
+            "Tackle/Sludge",
+            "Water Gun/Sludge"
+        ]
+    },
+    "259": {
+        "name": "Marshtomp",
+        "evolution": "Mudkip » Marshtomp Swampert",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "max_cp": "1617",
+        "attack": "156",
+        "defense": "133",
+        "stamina": "140",
+        "top_moves": [
+            "Water Gun/Mud Bomb",
+            "Water Gun/Sludge",
+            "Mud Shot/Mud Bomb",
+            "Water Gun/Surf"
+        ]
+    },
+    "260": {
+        "name": "Swampert",
+        "evolution": "Mudkip » Marshtomp Swampert",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "max_cp": "2815",
+        "attack": "208",
+        "defense": "175",
+        "stamina": "200",
+        "top_moves": [
+            "Water Gun/Surf",
+            "Water Gun/Earthquake",
+            "Water Gun/Sludge Wave",
+            "Mud Shot/Surf"
+        ]
+    },
+    "261": {
+        "name": "Poochyena",
+        "evolution": "Poochyena » Mightyena",
+        "type": [
+            "Dark"
+        ],
+        "max_cp": "564",
+        "attack": "96",
+        "defense": "63",
+        "stamina": "70",
+        "top_moves": [
+            "Snarl/Crunch",
+            "Tackle/Crunch",
+            "Snarl/Dig",
+            "Tackle/Dig"
+        ]
+    },
+    "262": {
+        "name": "Mightyena",
+        "evolution": "Poochyena » Mightyena",
+        "type": [
+            "Dark"
+        ],
+        "max_cp": "1783",
+        "attack": "171",
+        "defense": "137",
+        "stamina": "140",
+        "top_moves": [
+            "Bite/Crunch",
+            "Fire Fang/Crunch",
+            "Bite/Play Rough",
+            "Fire Fang/Play Rough"
+        ]
+    },
+    "263": {
+        "name": "Zigzagoon",
+        "evolution": "Zigzagoon » Linoone",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "423",
+        "attack": "58",
+        "defense": "80",
+        "stamina": "76",
+        "top_moves": [
+            "Rock Smash/Dig",
+            "Rock Smash/Grass Knot",
+            "Rock Smash/Thunderbolt",
+            "Tackle/Dig"
+        ]
+    },
+    "264": {
+        "name": "Linoone",
+        "evolution": "Zigzagoon » Linoone",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1533",
+        "attack": "142",
+        "defense": "128",
+        "stamina": "156",
+        "top_moves": [
+            "Shadow Claw/Dig",
+            "Shadow Claw/Grass Knot",
+            "Tackle/Dig",
+            "Tackle/Grass Knot"
+        ]
+    },
+    "265": {
+        "name": "Wurmple",
+        "evolution": "Wurmple » Silcoon/Cascoon » Beautifly/Dustox",
+        "type": [
+            "Bug"
+        ],
+        "max_cp": "502",
+        "attack": "75",
+        "defense": "61",
+        "stamina": "90",
+        "top_moves": [
+            "Tackle/Struggle",
+            "Bug Bite/Struggle"
+        ]
+    },
+    "266": {
+        "name": "Silcoon",
+        "evolution": "Wurmple » Silcoon » Beautifly",
+        "type": [
+            "Bug"
+        ],
+        "max_cp": "517",
+        "attack": "60",
+        "defense": "91",
+        "stamina": "100",
+        "top_moves": [
+            "Bug Bite/Struggle",
+            "Poison Sting/Struggle"
+        ]
+    },
+    "267": {
+        "name": "Beautifly",
+        "evolution": "Wurmple » Silcoon » Beautifly",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "max_cp": "1573",
+        "attack": "189",
+        "defense": "98",
+        "stamina": "120",
+        "top_moves": [
+            "Struggle Bug/Silver Wind",
+            "Infestation/Silver Wind",
+            "Struggle Bug/Bug Buzz",
+            "Infestation/Bug Buzz"
+        ]
+    },
+    "268": {
+        "name": "Cascoon",
+        "evolution": "Wurmple » Cascoon » Dustox",
+        "type": [
+            "Bug"
+        ],
+        "max_cp": "517",
+        "attack": "60",
+        "defense": "91",
+        "stamina": "100",
+        "top_moves": [
+            "Bug Bite/Struggle",
+            "Poison Sting/Struggle"
+        ]
+    },
+    "269": {
+        "name": "Dustox",
+        "evolution": "Wurmple » Cascoon » Dustox",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "max_cp": "1121",
+        "attack": "98",
+        "defense": "172",
+        "stamina": "120",
+        "top_moves": [
+            "Confusion/Silver Wind",
+            "Confusion/Bug Buzz",
+            "Struggle Bug/Silver Wind",
+            "Confusion/Sludge Bomb"
+        ]
+    },
+    "270": {
+        "name": "Lotad",
+        "evolution": "Lotad » Lombre » Ludicolo",
+        "type": [
+            "Water",
+            "Grass"
+        ],
+        "max_cp": "526",
+        "attack": "71",
+        "defense": "86",
+        "stamina": "80",
+        "top_moves": [
+            "Razor Leaf/Energy Ball",
+            "Razor Leaf/Bubble Beam",
+            "Water Gun/Energy Ball"
+        ]
+    },
+    "271": {
+        "name": "Lombre",
+        "evolution": "Lotad » Lombre » Ludicolo",
+        "type": [
+            "Water",
+            "Grass"
+        ],
+        "max_cp": "1102",
+        "attack": "112",
+        "defense": "128",
+        "stamina": "120",
+        "top_moves": [
+            "Razor Leaf/Ice Beam",
+            "Razor Leaf/Grass Knot",
+            "Razor Leaf/Bubble Beam",
+            "Bubble/Ice Beam"
+        ]
+    },
+    "272": {
+        "name": "Ludicolo",
+        "evolution": "Lotad » Lombre » Ludicolo",
+        "type": [
+            "Water",
+            "Grass"
+        ],
+        "max_cp": "2229",
+        "attack": "173",
+        "defense": "191",
+        "stamina": "160",
+        "top_moves": [
+            "Razor Leaf/Solar Beam",
+            "Razor Leaf/Hydro Pump",
+            "Razor Leaf/Blizzard",
+            "Bubble/Solar Beam"
+        ]
+    },
+    "273": {
+        "name": "Seedot",
+        "evolution": "Seedot » Nuzleaf » Shiftry",
+        "type": [
+            "Grass"
+        ],
+        "max_cp": "526",
+        "attack": "71",
+        "defense": "86",
+        "stamina": "80",
+        "top_moves": [
+            "Quick Attack/Grass Knot",
+            "Quick Attack/Energy Ball",
+            "Bullet Seed/Grass Knot",
+            "Bullet Seed/Energy Ball"
+        ]
+    },
+    "274": {
+        "name": "Nuzleaf",
+        "evolution": "Seedot » Nuzleaf » Shiftry",
+        "type": [
+            "Grass",
+            "Dark"
+        ],
+        "max_cp": "1117",
+        "attack": "134",
+        "defense": "78",
+        "stamina": "140",
+        "top_moves": [
+            "Razor Leaf/Leaf Blade",
+            "Razor Leaf/Grass Knot",
+            "Razor Leaf/Foul Play",
+            "Feint Attack/Leaf Blade"
+        ]
+    },
+    "275": {
+        "name": "Shiftry",
+        "evolution": "Seedot » Nuzleaf » Shiftry",
+        "type": [
+            "Grass",
+            "Dark"
+        ],
+        "max_cp": "2186",
+        "attack": "200",
+        "defense": "121",
+        "stamina": "180",
+        "top_moves": [
+            "Razor Leaf/Leaf Blade",
+            "Razor Leaf/Foul Play",
+            "Feint Attack/Leaf Blade",
+            "Razor Leaf/Hurricane"
+        ]
+    },
+    "276": {
+        "name": "Taillow",
+        "evolution": "Taillow » Swellow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "max_cp": "642",
+        "attack": "106",
+        "defense": "61",
+        "stamina": "80",
+        "top_moves": [
+            "Peck/Aerial Ace",
+            "Quick Attack/Aerial Ace"
+        ]
+    },
+    "277": {
+        "name": "Swellow",
+        "evolution": "Taillow » Swellow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "max_cp": "1747",
+        "attack": "185",
+        "defense": "130",
+        "stamina": "120",
+        "top_moves": [
+            "Steel Wing/Aerial Ace",
+            "Steel Wing/Sky Attack",
+            "Steel Wing/Brave Bird",
+            "Wing Attack/Aerial Ace"
+        ]
+    },
+    "278": {
+        "name": "Wingull",
+        "evolution": "Wingull » Pelipper",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "max_cp": "642",
+        "attack": "106",
+        "defense": "61",
+        "stamina": "80",
+        "top_moves": [
+            "Water Gun/Ice Beam",
+            "Quick Attack/Ice Beam",
+            "Water Gun/Water Pulse",
+            "Water Gun/Air Cutter"
+        ]
+    },
+    "279": {
+        "name": "Pelipper",
+        "evolution": "Wingull » Pelipper",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "max_cp": "1969",
+        "attack": "175",
+        "defense": "189",
+        "stamina": "120",
+        "top_moves": [
+            "Water Gun/Hydro Pump",
+            "Water Gun/Blizzard",
+            "Wing Attack/Hydro Pump",
+            "Wing Attack/Blizzard"
+        ]
+    },
+    "280": {
+        "name": "Ralts",
+        "evolution": "Ralts » Kirlia » Gardevoir",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "max_cp": "436",
+        "attack": "79",
+        "defense": "63",
+        "stamina": "56",
+        "top_moves": [
+            "Confusion/Disarming Voice",
+            "Confusion/Psyshock",
+            "Confusion/Shadow Sneak",
+            "Charge Beam/Disarming Voice"
+        ]
+    },
+    "281": {
+        "name": "Kirlia",
+        "evolution": "Ralts » Kirlia » Gardevoir",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "max_cp": "843",
+        "attack": "117",
+        "defense": "100",
+        "stamina": "76",
+        "top_moves": [
+            "Confusion/Disarming Voice",
+            "Confusion/Shadow Sneak",
+            "Charge Beam/Disarming Voice",
+            "Confusion/Psychic"
+        ]
+    },
+    "282": {
+        "name": "Gardevoir",
+        "evolution": "Ralts » Kirlia » Gardevoir/Gallade",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "max_cp": "2964",
+        "attack": "237",
+        "defense": "220",
+        "stamina": "136",
+        "top_moves": [
+            "Confusion/Dazzling Gleam",
+            "Confusion/Shadow Ball",
+            "Charge Beam/Dazzling Gleam",
+            "Charge Beam/Shadow Ball"
+        ]
+    },
+    "283": {
+        "name": "Surskit",
+        "evolution": "Surskit » Masquerain",
+        "type": [
+            "Bug",
+            "Water"
+        ],
+        "max_cp": "695",
+        "attack": "93",
+        "defense": "97",
+        "stamina": "80",
+        "top_moves": [
+            "Bubble/Signal Beam",
+            "Bug Bite/Signal Beam",
+            "Bubble/Aqua Jet",
+            "Bubble/Bubble Beam"
+        ]
+    },
+    "284": {
+        "name": "Masquerain",
+        "evolution": "Surskit » Masquerain",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "max_cp": "2135",
+        "attack": "192",
+        "defense": "161",
+        "stamina": "140",
+        "top_moves": [
+            "Air Slash/Silver Wind",
+            "Infestation/Silver Wind",
+            "Air Slash/Ominous Wind",
+            "Air Slash/Air Cutter"
+        ]
+    },
+    "285": {
+        "name": "Shroomish",
+        "evolution": "Shroomish » Breloom",
+        "type": [
+            "Grass"
+        ],
+        "max_cp": "722",
+        "attack": "74",
+        "defense": "110",
+        "stamina": "120",
+        "top_moves": [
+            "Tackle/Energy Ball",
+            "Tackle/Grass Knot",
+            "Tackle/Seed Bomb",
+            "Bullet Seed/Energy Ball"
+        ]
+    },
+    "286": {
+        "name": "Breloom",
+        "evolution": "Shroomish » Breloom",
+        "type": [
+            "Grass",
+            "Fighting"
+        ],
+        "max_cp": "2407",
+        "attack": "241",
+        "defense": "153",
+        "stamina": "120",
+        "top_moves": [
+            "Counter/Dynamic Punch",
+            "Counter/Seed Bomb",
+            "Counter/Sludge Bomb",
+            "Bullet Seed/Dynamic Punch"
+        ]
+    },
+    "287": {
+        "name": "Slakoth",
+        "evolution": "Slakoth » Vigoroth » Slaking",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "942",
+        "attack": "104",
+        "defense": "104",
+        "stamina": "120",
+        "top_moves": [
+            "Yawn/Body Slam",
+            "Yawn/Night Slash",
+            "Yawn/Brick Break"
+        ]
+    },
+    "288": {
+        "name": "Vigoroth",
+        "evolution": "Slakoth » Vigoroth » Slaking",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1896",
+        "attack": "159",
+        "defense": "159",
+        "stamina": "160",
+        "top_moves": [
+            "Counter/Bulldoze",
+            "Scratch/Bulldoze",
+            "Counter/Body Slam",
+            "Scratch/Body Slam"
+        ]
+    },
+    "289": {
+        "name": "Slaking",
+        "evolution": "Slakoth » Vigoroth » Slaking",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "4548",
+        "attack": "290",
+        "defense": "183",
+        "stamina": "273",
+        "top_moves": [
+            "Yawn/Play Rough",
+            "Yawn/Hyper Beam",
+            "Yawn/Earthquake"
+        ]
+    },
+    "290": {
+        "name": "Nincada",
+        "evolution": "Nincada » Ninjask » Shedinja",
+        "type": [
+            "Bug",
+            "Ground"
+        ],
+        "max_cp": "674",
+        "attack": "80",
+        "defense": "153",
+        "stamina": "62",
+        "top_moves": [
+            "Scratch/Bug Buzz",
+            "Scratch/Aerial Ace",
+            "Scratch/Night Slash",
+            "Bug Bite/Bug Buzz"
+        ]
+    },
+    "291": {
+        "name": "Ninjask",
+        "evolution": "Nincada » Ninjask » Shedinja",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "max_cp": "1751",
+        "attack": "196",
+        "defense": "114",
+        "stamina": "122",
+        "top_moves": [
+            "Metal Claw/Shadow Ball",
+            "Metal Claw/Bug Buzz",
+            "Metal Claw/Aerial Ace",
+            "Fury Cutter/Shadow Ball"
+        ]
+    },
+    "292": {
+        "name": "Shedinja",
+        "evolution": "Nincada » Ninjask » Shedinja",
+        "type": [
+            "Bug",
+            "Ghost"
+        ],
+        "max_cp": "421",
+        "attack": "153",
+        "defense": "80",
+        "stamina": "2",
+        "top_moves": [
+            "Bite/Dig",
+            "Bite/Aerial Ace",
+            "Struggle Bug/Dig",
+            "Bite/Shadow Sneak"
+        ]
+    },
+    "293": {
+        "name": "Whismur",
+        "evolution": "Whismur » Loudred » Exploud",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "603",
+        "attack": "92",
+        "defense": "42",
+        "stamina": "128",
+        "top_moves": [
+            "Pound/Disarming Voice",
+            "Astonish/Disarming Voice",
+            "Pound/Flamethrower",
+            "Pound/Stomp"
+        ]
+    },
+    "294": {
+        "name": "Loudred",
+        "evolution": "Whismur » Loudred » Exploud",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1233",
+        "attack": "134",
+        "defense": "81",
+        "stamina": "168",
+        "top_moves": [
+            "Bite/Disarming Voice",
+            "Bite/Crunch",
+            "Rock Smash/Disarming Voice",
+            "Rock Smash/Crunch"
+        ]
+    },
+    "295": {
+        "name": "Exploud",
+        "evolution": "Whismur » Loudred » Exploud",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "2267",
+        "attack": "179",
+        "defense": "142",
+        "stamina": "208",
+        "top_moves": [
+            "Bite/Crunch",
+            "Bite/Disarming Voice",
+            "Bite/Fire Blast",
+            "Astonish/Crunch"
+        ]
+    },
+    "296": {
+        "name": "Makuhita",
+        "evolution": "Makuhita » Hariyama",
+        "type": [
+            "Fighting"
+        ],
+        "max_cp": "745",
+        "attack": "99",
+        "defense": "54",
+        "stamina": "144",
+        "top_moves": [
+            "fighting/type with 745 MAX CP. Makuhita best moveset is Rock Smash and Heavy Slam."
+        ]
+    },
+    "297": {
+        "name": "Hariyama",
+        "evolution": "Makuhita » Hariyama",
+        "type": [
+            "Fighting"
+        ],
+        "max_cp": "2765",
+        "attack": "209",
+        "defense": "114",
+        "stamina": "288",
+        "top_moves": [
+            "Counter/Dynamic Punch",
+            "Counter/Heavy Slam",
+            "Bullet Punch/Dynamic Punch",
+            "Counter/Close Combat"
+        ]
+    },
+    "298": {
+        "name": "Azurill",
+        "evolution": "Marill » Azumarill » Azurill",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "max_cp": "316",
+        "attack": "36",
+        "defense": "71",
+        "stamina": "100",
+        "top_moves": [
+            "Bubble/Ice Beam",
+            "Bubble/Body Slam",
+            "Bubble/Bubble Beam",
+            "Splash/Ice Beam"
+        ]
+    },
+    "299": {
+        "name": "Nosepass",
+        "evolution": "Nosepass » Probopass",
+        "type": [
+            "Rock"
+        ],
+        "max_cp": "831",
+        "attack": "82",
+        "defense": "236",
+        "stamina": "60",
+        "top_moves": [
+            "Rock Throw/Rock Slide",
+            "Rock Throw/Thunderbolt",
+            "Rock Throw/Rock Blast",
+            "Spark/Rock Slide"
+        ]
+    },
+    "300": {
+        "name": "Skitty",
+        "evolution": "Skitty » Delcatty",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "659",
+        "attack": "84",
+        "defense": "84",
+        "stamina": "100",
+        "top_moves": [
+            "Feint Attack/Disarming Voice",
+            "Feint Attack/Dig",
+            "Tackle/Disarming Voice",
+            "Feint Attack/Wild Charge"
+        ]
+    },
+    "301": {
+        "name": "Delcatty",
+        "evolution": "Skitty » Delcatty",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1385",
+        "attack": "132",
+        "defense": "132",
+        "stamina": "140",
+        "top_moves": [
+            "Feint Attack/Disarming Voice",
+            "Zen Headbutt/Disarming Voice",
+            "Feint Attack/Play Rough",
+            "Feint Attack/Wild Charge"
+        ]
+    },
+    "302": {
+        "name": "Sableye",
+        "evolution": "Sableye",
+        "type": [
+            "Dark",
+            "Ghost"
+        ],
+        "max_cp": "1305",
+        "attack": "141",
+        "defense": "141",
+        "stamina": "100",
+        "top_moves": [
+            "Shadow Claw/Power Gem",
+            "Shadow Claw/Shadow Sneak",
+            "Shadow Claw/Foul Play",
+            "Feint Attack/Power Gem"
+        ]
+    },
+    "303": {
+        "name": "Mawile",
+        "evolution": "Mawile",
+        "type": [
+            "Steel",
+            "Fairy"
+        ],
+        "max_cp": "1484",
+        "attack": "155",
+        "defense": "155",
+        "stamina": "100",
+        "top_moves": [
+            "Bite/Play Rough",
+            "Bite/Iron Head",
+            "Bite/Vice Grip",
+            "Astonish/Play Rough"
+        ]
+    },
+    "304": {
+        "name": "Aron",
+        "evolution": "Aron » Lairon » Aggron",
+        "type": [
+            "Steel",
+            "Rock"
+        ],
+        "max_cp": "1232",
+        "attack": "121",
+        "defense": "168",
+        "stamina": "100",
+        "top_moves": [
+            "Metal Claw/Body Slam",
+            "Metal Claw/Rock Tomb",
+            "Tackle/Body Slam",
+            "Tackle/Rock Tomb"
+        ]
+    },
+    "305": {
+        "name": "Lairon",
+        "evolution": "Aron » Lairon » Aggron",
+        "type": [
+            "Steel",
+            "Rock"
+        ],
+        "max_cp": "2004",
+        "attack": "158",
+        "defense": "240",
+        "stamina": "120",
+        "top_moves": [
+            "Iron Tail/Rock Slide",
+            "Iron Tail/Body Slam",
+            "Iron Tail/Heavy Slam",
+            "Metal Claw/Rock Slide"
+        ]
+    },
+    "306": {
+        "name": "Aggron",
+        "evolution": "Aron » Lairon » Aggron",
+        "type": [
+            "Steel",
+            "Rock"
+        ],
+        "max_cp": "3004",
+        "attack": "198",
+        "defense": "314",
+        "stamina": "140",
+        "top_moves": [
+            "Iron Tail/Heavy Slam",
+            "Iron Tail/Thunder",
+            "Iron Tail/Stone Edge",
+            "Dragon Tail/Heavy Slam"
+        ]
+    },
+    "307": {
+        "name": "Meditite",
+        "evolution": "Meditite » Medicham",
+        "type": [
+            "Fighting",
+            "Psychic"
+        ],
+        "max_cp": "555",
+        "attack": "78",
+        "defense": "107",
+        "stamina": "60",
+        "top_moves": [
+            "Rock Smash/Psyshock",
+            "Confusion/Psyshock",
+            "Rock Smash/Ice Punch",
+            "Confusion/Ice Punch"
+        ]
+    },
+    "308": {
+        "name": "Medicham",
+        "evolution": "Meditite » Medicham",
+        "type": [
+            "Fighting",
+            "Psychic"
+        ],
+        "max_cp": "1275",
+        "attack": "121",
+        "defense": "152",
+        "stamina": "120",
+        "top_moves": [
+            "Counter/Dynamic Punch",
+            "Counter/Ice Punch",
+            "Counter/Psychic",
+            "Psycho Cut/Dynamic Punch"
+        ]
+    },
+    "309": {
+        "name": "Electrike",
+        "evolution": "Electrike » Manectric",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "810",
+        "attack": "123",
+        "defense": "78",
+        "stamina": "80",
+        "top_moves": [
+            "Quick Attack/Discharge",
+            "Spark/Discharge",
+            "Quick Attack/Thunderbolt",
+            "Spark/Thunderbolt"
+        ]
+    },
+    "310": {
+        "name": "Manectric",
+        "evolution": "Electrike » Manectric",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "2131",
+        "attack": "215",
+        "defense": "127",
+        "stamina": "140",
+        "top_moves": [
+            "Snarl/Wild Charge",
+            "Snarl/Flame Burst",
+            "Charge Beam/Wild Charge",
+            "Snarl/Thunder"
+        ]
+    },
+    "311": {
+        "name": "Plusle",
+        "evolution": "Plusle",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "1681",
+        "attack": "167",
+        "defense": "147",
+        "stamina": "120",
+        "top_moves": [
+            "Quick Attack/Discharge",
+            "Spark/Discharge",
+            "Quick Attack/Thunderbolt",
+            "Spark/Thunderbolt"
+        ]
+    },
+    "312": {
+        "name": "Minun",
+        "evolution": "Minun",
+        "type": [
+            "Electric"
+        ],
+        "max_cp": "1585",
+        "attack": "147",
+        "defense": "167",
+        "stamina": "120",
+        "top_moves": [
+            "Quick Attack/Discharge",
+            "Spark/Discharge",
+            "Quick Attack/Thunderbolt",
+            "Spark/Thunderbolt"
+        ]
+    },
+    "313": {
+        "name": "Volbeat",
+        "evolution": "Volbeat",
+        "type": [
+            "Bug"
+        ],
+        "max_cp": "1620",
+        "attack": "143",
+        "defense": "171",
+        "stamina": "130",
+        "top_moves": [
+            "Struggle Bug/Bug Buzz",
+            "Tackle/Bug Buzz",
+            "Struggle Bug/Thunderbolt",
+            "Tackle/Thunderbolt"
+        ]
+    },
+    "314": {
+        "name": "Illumise",
+        "evolution": "Illumise",
+        "type": [
+            "Bug"
+        ],
+        "max_cp": "1620",
+        "attack": "143",
+        "defense": "171",
+        "stamina": "130",
+        "top_moves": [
+            "Struggle Bug/Silver Wind",
+            "Tackle/Silver Wind",
+            "Struggle Bug/Dazzling Gleam",
+            "Tackle/Dazzling Gleam"
+        ]
+    },
+    "315": {
+        "name": "Roselia",
+        "evolution": "Roselia » Roserade",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "max_cp": "1718",
+        "attack": "186",
+        "defense": "148",
+        "stamina": "100",
+        "top_moves": [
+            "Razor Leaf/Dazzling Gleam",
+            "Razor Leaf/Sludge Bomb",
+            "Poison Jab/Dazzling Gleam",
+            "Poison Jab/Sludge Bomb"
+        ]
+    },
+    "316": {
+        "name": "Gulpin",
+        "evolution": "Gulpin » Swalot",
+        "type": [
+            "Poison"
+        ],
+        "max_cp": "788",
+        "attack": "80",
+        "defense": "99",
+        "stamina": "140",
+        "top_moves": [
+            "Rock Smash/Ice Beam",
+            "Rock Smash/Sludge",
+            "Pound/Ice Beam",
+            "Rock Smash/Gunk Shot"
+        ]
+    },
+    "317": {
+        "name": "Swalot",
+        "evolution": "Gulpin » Swalot",
+        "type": [
+            "Poison"
+        ],
+        "max_cp": "1872",
+        "attack": "140",
+        "defense": "159",
+        "stamina": "200",
+        "top_moves": [
+            "Rock Smash/Ice Beam",
+            "Rock Smash/Sludge Bomb",
+            "Rock Smash/Gunk Shot",
+            "Infestation/Ice Beam"
+        ]
+    },
+    "318": {
+        "name": "Carvanha",
+        "evolution": "Carvanha » Sharpedo",
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "max_cp": "874",
+        "attack": "171",
+        "defense": "39",
+        "stamina": "90",
+        "top_moves": [
+            "Bite/Crunch",
+            "Snarl/Crunch",
+            "Bite/Aqua Jet",
+            "Bite/Poison Fang"
+        ]
+    },
+    "319": {
+        "name": "Sharpedo",
+        "evolution": "Carvanha » Sharpedo",
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "max_cp": "1986",
+        "attack": "243",
+        "defense": "83",
+        "stamina": "140",
+        "top_moves": [
+            "Waterfall/Crunch",
+            "Bite/Crunch",
+            "Waterfall/Hydro Pump",
+            "Waterfall/Poison Fang"
+        ]
+    },
+    "320": {
+        "name": "Wailmer",
+        "evolution": "Wailmer » Wailord",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "1424",
+        "attack": "136",
+        "defense": "68",
+        "stamina": "260",
+        "top_moves": [
+            "Water Gun/Body Slam",
+            "Water Gun/Heavy Slam",
+            "Water Gun/Water Pulse"
+        ]
+    },
+    "321": {
+        "name": "Wailord",
+        "evolution": "Wailmer » Wailord",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "2258",
+        "attack": "175",
+        "defense": "87",
+        "stamina": "340",
+        "top_moves": [
+            "Zen Headbutt/Hyper Beam",
+            "Zen Headbutt/Surf",
+            "Zen Headbutt/Blizzard",
+            "Water Gun/Hyper Beam"
+        ]
+    },
+    "322": {
+        "name": "Numel",
+        "evolution": "Numel » Camerupt",
+        "type": [
+            "Fire",
+            "Ground"
+        ],
+        "max_cp": "957",
+        "attack": "119",
+        "defense": "82",
+        "stamina": "120",
+        "top_moves": [
+            "Ember/Bulldoze",
+            "Tackle/Bulldoze",
+            "Ember/Stomp",
+            "Tackle/Stomp"
+        ]
+    },
+    "323": {
+        "name": "Camerupt",
+        "evolution": "Numel » Camerupt",
+        "type": [
+            "Fire",
+            "Ground"
+        ],
+        "max_cp": "2016",
+        "attack": "194",
+        "defense": "139",
+        "stamina": "140",
+        "top_moves": [
+            "fire/ground"
+        ]
+    },
+    "324": {
+        "name": "Torkoal",
+        "evolution": "Torkoal",
+        "type": [
+            "Fire"
+        ],
+        "max_cp": "2036",
+        "attack": "151",
+        "defense": "234",
+        "stamina": "140",
+        "top_moves": [
+            "Fire Spin/Solar Beam",
+            "Fire Spin/Overheat",
+            "Ember/Solar Beam",
+            "Fire Spin/Earthquake"
+        ]
+    },
+    "325": {
+        "name": "Spoink",
+        "evolution": "Spoink » Grumpig",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "1285",
+        "attack": "125",
+        "defense": "145",
+        "stamina": "120",
+        "top_moves": [
+            "Zen Headbutt/Shadow Ball",
+            "Zen Headbutt/Psybeam",
+            "Zen Headbutt/Mirror Coat"
+        ]
+    },
+    "326": {
+        "name": "Grumpig",
+        "evolution": "Spoink » Grumpig",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "2310",
+        "attack": "171",
+        "defense": "211",
+        "stamina": "160",
+        "top_moves": [
+            "Extrasensory/Shadow Ball",
+            "Charge Beam/Shadow Ball",
+            "Extrasensory/Mirror Coat",
+            "Extrasensory/Psychic"
+        ]
+    },
+    "327": {
+        "name": "Spinda",
+        "evolution": "Spinda",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1088",
+        "attack": "116",
+        "defense": "116",
+        "stamina": "120",
+        "top_moves": [
+            "Sucker Punch/Dig",
+            "Sucker Punch/Icy Wind",
+            "Psycho Cut/Dig",
+            "Psycho Cut/Icy Wind"
+        ]
+    },
+    "328": {
+        "name": "Trapinch",
+        "evolution": "Trapinch » Vibrava » Flygon",
+        "type": [
+            "Ground"
+        ],
+        "max_cp": "1092",
+        "attack": "162",
+        "defense": "78",
+        "stamina": "90",
+        "top_moves": [
+            "Struggle Bug/Crunch",
+            "Struggle Bug/Dig",
+            "Mud Shot/Crunch",
+            "Mud Shot/Dig"
+        ]
+    },
+    "329": {
+        "name": "Vibrava",
+        "evolution": "Trapinch » Vibrava » Flygon",
+        "type": [
+            "Ground",
+            "Dragon"
+        ],
+        "max_cp": "1065",
+        "attack": "134",
+        "defense": "99",
+        "stamina": "100",
+        "top_moves": [
+            "Dragon Breath/Bug Buzz",
+            "Dragon Breath/Sand Tomb",
+            "Dragon Breath/Bulldoze",
+            "Mud Shot/Bug Buzz"
+        ]
+    },
+    "330": {
+        "name": "Flygon",
+        "evolution": "Trapinch » Vibrava » Flygon",
+        "type": [
+            "Ground",
+            "Dragon"
+        ],
+        "max_cp": "2458",
+        "attack": "205",
+        "defense": "168",
+        "stamina": "160",
+        "top_moves": [
+            "Dragon Tail/Dragon Claw",
+            "Dragon Tail/Earthquake",
+            "Dragon Tail/Stone Edge",
+            "Mud Shot/Dragon Claw"
+        ]
+    },
+    "331": {
+        "name": "Cacnea",
+        "evolution": "Cacnea » Cacturne",
+        "type": [
+            "Grass"
+        ],
+        "max_cp": "1080",
+        "attack": "156",
+        "defense": "74",
+        "stamina": "100",
+        "top_moves": [
+            "Sucker Punch/Grass Knot",
+            "Sucker Punch/Seed Bomb",
+            "Poison Sting/Grass Knot",
+            "Poison Sting/Seed Bomb"
+        ]
+    },
+    "332": {
+        "name": "Cacturne",
+        "evolution": "Cacnea » Cacturne",
+        "type": [
+            "Grass",
+            "Dark"
+        ],
+        "max_cp": "2092",
+        "attack": "221",
+        "defense": "115",
+        "stamina": "140",
+        "top_moves": [
+            "Poison Jab/Dynamic Punch",
+            "Poison Jab/Grass Knot",
+            "Poison Jab/Dark Pulse",
+            "Sucker Punch/Dynamic Punch"
+        ]
+    },
+    "333": {
+        "name": "Swablu",
+        "evolution": "Swablu » Altaria",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "max_cp": "722",
+        "attack": "76",
+        "defense": "139",
+        "stamina": "90",
+        "top_moves": [
+            "Peck/Disarming Voice",
+            "Peck/Ice Beam",
+            "Astonish/Disarming Voice",
+            "Peck/Aerial Ace"
+        ]
+    },
+    "334": {
+        "name": "Altaria",
+        "evolution": "Swablu » Altaria",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "max_cp": "1868",
+        "attack": "141",
+        "defense": "208",
+        "stamina": "150",
+        "top_moves": [
+            "Dragon Breath/Dazzling Gleam",
+            "Dragon Breath/Dragon Pulse",
+            "Peck/Dazzling Gleam",
+            "Dragon Breath/Sky Attack"
+        ]
+    },
+    "335": {
+        "name": "Zangoose",
+        "evolution": "Zangoose",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "2214",
+        "attack": "222",
+        "defense": "124",
+        "stamina": "146",
+        "top_moves": [
+            "Shadow Claw/Dig",
+            "Shadow Claw/Night Slash",
+            "Shadow Claw/Close Combat",
+            "Fury Cutter/Dig"
+        ]
+    },
+    "336": {
+        "name": "Seviper",
+        "evolution": "Seviper",
+        "type": [
+            "Poison"
+        ],
+        "max_cp": "1928",
+        "attack": "196",
+        "defense": "118",
+        "stamina": "146",
+        "top_moves": [
+            "Iron Tail/Crunch",
+            "Iron Tail/Wrap",
+            "Poison Jab/Crunch",
+            "Poison Jab/Wrap"
+        ]
+    },
+    "337": {
+        "name": "Lunatone",
+        "evolution": "Lunatone",
+        "type": [
+            "Rock",
+            "Psychic"
+        ],
+        "max_cp": "2245",
+        "attack": "178",
+        "defense": "163",
+        "stamina": "180",
+        "top_moves": [
+            "Rock Throw/Rock Slide",
+            "Rock Throw/Moonblast",
+            "Confusion/Rock Slide",
+            "Rock Throw/Psychic"
+        ]
+    },
+    "338": {
+        "name": "Solrock",
+        "evolution": "Solrock",
+        "type": [
+            "Rock",
+            "Psychic"
+        ],
+        "max_cp": "2245",
+        "attack": "178",
+        "defense": "163",
+        "stamina": "180",
+        "top_moves": [
+            "Rock Throw/Solar Beam",
+            "Rock Throw/Rock Slide",
+            "Confusion/Solar Beam",
+            "Confusion/Rock Slide"
+        ]
+    },
+    "339": {
+        "name": "Barboach",
+        "evolution": "Barboach » Whiscash",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "max_cp": "716",
+        "attack": "93",
+        "defense": "83",
+        "stamina": "100",
+        "top_moves": [
+            "Water Gun/Ice Beam",
+            "Water Gun/Mud Bomb",
+            "Mud Shot/Ice Beam",
+            "Water Gun/Aqua Tail"
+        ]
+    },
+    "340": {
+        "name": "Whiscash",
+        "evolution": "Barboach » Whiscash",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "max_cp": "1991",
+        "attack": "151",
+        "defense": "142",
+        "stamina": "220",
+        "top_moves": [
+            "Water Gun/Mud Bomb",
+            "Mud Shot/Mud Bomb",
+            "Water Gun/Water Pulse",
+            "Water Gun/Blizzard"
+        ]
+    },
+    "341": {
+        "name": "Corphish",
+        "evolution": "Corphish » Crawdaunt",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "1107",
+        "attack": "141",
+        "defense": "113",
+        "stamina": "86",
+        "top_moves": [
+            "Rock Smash/Aqua Jet",
+            "Rock Smash/Bubble Beam",
+            "Rock Smash/Vice Grip",
+            "Bubble/Aqua Jet"
+        ]
+    },
+    "342": {
+        "name": "Crawdaunt",
+        "evolution": "Corphish » Crawdaunt",
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "max_cp": "2317",
+        "attack": "224",
+        "defense": "156",
+        "stamina": "126",
+        "top_moves": [
+            "Waterfall/Night Slash",
+            "Waterfall/Bubble Beam",
+            "Waterfall/Vice Grip",
+            "Snarl/Night Slash"
+        ]
+    },
+    "343": {
+        "name": "Baltoy",
+        "evolution": "Baltoy » Claydol",
+        "type": [
+            "Ground",
+            "Psychic"
+        ],
+        "max_cp": "676",
+        "attack": "77",
+        "defense": "131",
+        "stamina": "80",
+        "top_moves": [
+            "Confusion/Dig",
+            "Extrasensory/Dig",
+            "Confusion/Gyro Ball",
+            "Confusion/Psybeam"
+        ]
+    },
+    "344": {
+        "name": "Claydol",
+        "evolution": "Baltoy » Claydol",
+        "type": [
+            "Ground",
+            "Psychic"
+        ],
+        "max_cp": "1782",
+        "attack": "140",
+        "defense": "236",
+        "stamina": "120",
+        "top_moves": [
+            "Confusion/Gyro Ball",
+            "Extrasensory/Gyro Ball",
+            "Confusion/Earthquake",
+            "Confusion/Psychic"
+        ]
+    },
+    "345": {
+        "name": "Lileep",
+        "evolution": "Lileep » Cradily",
+        "type": [
+            "Rock",
+            "Grass"
+        ],
+        "max_cp": "1181",
+        "attack": "105",
+        "defense": "154",
+        "stamina": "132",
+        "top_moves": [
+            "Acid/Ancient Power",
+            "Acid/Grass Knot",
+            "Infestation/Ancient Power",
+            "Infestation/Grass Knot"
+        ]
+    },
+    "346": {
+        "name": "Cradily",
+        "evolution": "Lileep » Cradily",
+        "type": [
+            "Rock",
+            "Grass"
+        ],
+        "max_cp": "2081",
+        "attack": "152",
+        "defense": "198",
+        "stamina": "172",
+        "top_moves": [
+            "Acid/Grass Knot",
+            "Acid/Bulldoze",
+            "Infestation/Grass Knot",
+            "Infestation/Bulldoze"
+        ]
+    },
+    "347": {
+        "name": "Anorith",
+        "evolution": "Anorith » Armaldo",
+        "type": [
+            "Rock",
+            "Bug"
+        ],
+        "max_cp": "1310",
+        "attack": "176",
+        "defense": "100",
+        "stamina": "90",
+        "top_moves": [
+            "Scratch/Ancient Power",
+            "Struggle Bug/Ancient Power",
+            "Scratch/Aqua Jet",
+            "Scratch/Cross Poison"
+        ]
+    },
+    "348": {
+        "name": "Armaldo",
+        "evolution": "Anorith » Armaldo",
+        "type": [
+            "Rock",
+            "Bug"
+        ],
+        "max_cp": "2675",
+        "attack": "222",
+        "defense": "183",
+        "stamina": "150",
+        "top_moves": [
+            "Struggle Bug/Rock Blast",
+            "Struggle Bug/Water Pulse",
+            "Struggle Bug/Cross Poison",
+            "Fury Cutter/Rock Blast"
+        ]
+    },
+    "349": {
+        "name": "Feebas",
+        "evolution": "Feebas » Milotic",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "220",
+        "attack": "29",
+        "defense": "102",
+        "stamina": "40",
+        "top_moves": [
+            "Tackle/Mirror Coat"
+        ]
+    },
+    "350": {
+        "name": "Milotic",
+        "evolution": "Feebas » Milotic",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "2967",
+        "attack": "192",
+        "defense": "242",
+        "stamina": "190",
+        "top_moves": [
+            "Waterfall/Hyper Beam",
+            "Waterfall/Surf",
+            "Waterfall/Blizzard",
+            "Dragon Tail/Hyper Beam"
+        ]
+    },
+    "351": {
+        "name": "Castform",
+        "evolution": "Castform",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1486",
+        "attack": "139",
+        "defense": "139",
+        "stamina": "140",
+        "top_moves": [
+            "Bite/Crunch",
+            "Bite/Ancient Power",
+            "Rock Smash/Crunch",
+            "Rock Smash/Ancient Power"
+        ]
+    },
+    "352": {
+        "name": "Kecleon",
+        "evolution": "Kecleon",
+        "type": [
+            "Normal"
+        ],
+        "max_cp": "1924",
+        "attack": "161",
+        "defense": "212",
+        "stamina": "120",
+        "top_moves": [
+            "Sucker Punch/Ice Beam",
+            "Lick/Ice Beam",
+            "Sucker Punch/Aerial Ace",
+            "Lick/Aerial Ace"
+        ]
+    },
+    "353": {
+        "name": "Shuppet",
+        "evolution": "Shuppet",
+        "type": [
+            "Ghost"
+        ],
+        "max_cp": "872",
+        "attack": "138",
+        "defense": "66",
+        "stamina": "88",
+        "top_moves": [
+            "Feint Attack/Ominous Wind",
+            "Feint Attack/Shadow Sneak",
+            "Feint Attack/Night Shade",
+            "Astonish/Ominous Wind"
+        ]
+    },
+    "354": {
+        "name": "Banette",
+        "evolution": "Banette",
+        "type": [
+            "Ghost"
+        ],
+        "max_cp": "2073",
+        "attack": "218",
+        "defense": "127",
+        "stamina": "128",
+        "top_moves": [
+            "Shadow Claw/Shadow Ball",
+            "Shadow Claw/Dazzling Gleam",
+            "Hex/Shadow Ball",
+            "Hex/Dazzling Gleam"
+        ]
+    },
+    "355": {
+        "name": "Duskull",
+        "evolution": "Duskull » Dusclops",
+        "type": [
+            "Ghost"
+        ],
+        "max_cp": "523",
+        "attack": "70",
+        "defense": "162",
+        "stamina": "40",
+        "top_moves": [
+            "Hex/Ominous Wind",
+            "Hex/Shadow Sneak",
+            "Astonish/Ominous Wind",
+            "Astonish/Shadow Sneak"
+        ]
+    },
+    "356": {
+        "name": "Dusclops",
+        "evolution": "Duskull » Dusclops",
+        "type": [
+            "Ghost"
+        ],
+        "max_cp": "1335",
+        "attack": "124",
+        "defense": "234",
+        "stamina": "80",
+        "top_moves": [
+            "Feint Attack/Fire Punch",
+            "Feint Attack/Ice Punch",
+            "Feint Attack/Shadow Punch",
+            "Hex/Fire Punch"
+        ]
+    },
+    "357": {
+        "name": "Tropius",
+        "evolution": "Tropius",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "max_cp": "1846",
+        "attack": "136",
+        "defense": "165",
+        "stamina": "198",
+        "top_moves": [
+            "Razor Leaf/Leaf Blade",
+            "Razor Leaf/Aerial Ace",
+            "Air Slash/Leaf Blade",
+            "Air Slash/Aerial Ace"
+        ]
+    },
+    "358": {
+        "name": "Chimecho",
+        "evolution": "Chimecho",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "2095",
+        "attack": "175",
+        "defense": "174",
+        "stamina": "150",
+        "top_moves": [
+            "Extrasensory/Shadow Ball",
+            "Extrasensory/Psyshock",
+            "Extrasensory/Energy Ball",
+            "Astonish/Shadow Ball"
+        ]
+    },
+    "359": {
+        "name": "Absol",
+        "evolution": "Absol",
+        "type": [
+            "Dark"
+        ],
+        "max_cp": "2280",
+        "attack": "246",
+        "defense": "120",
+        "stamina": "130",
+        "top_moves": [
+            "Snarl/Dark Pulse",
+            "Psycho Cut/Dark Pulse",
+            "Snarl/Thunder",
+            "Snarl/Megahorn"
+        ]
+    },
+    "360": {
+        "name": "Wynaut",
+        "evolution": "Wynaut",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "503",
+        "attack": "41",
+        "defense": "86",
+        "stamina": "190",
+        "top_moves": [
+            "Counter/Mirror Coat"
+        ]
+    },
+    "361": {
+        "name": "Snorunt",
+        "evolution": "Snorunt » Glalie",
+        "type": [
+            "Ice"
+        ],
+        "max_cp": "772",
+        "attack": "95",
+        "defense": "95",
+        "stamina": "100",
+        "top_moves": [
+            "Hex/Shadow Ball",
+            "Hex/Icy Wind",
+            "Hex/Avalanche",
+            "Powder Snow/Shadow Ball"
+        ]
+    },
+    "362": {
+        "name": "Glalie",
+        "evolution": "Snorunt » Glalie",
+        "type": [
+            "Ice"
+        ],
+        "max_cp": "1945",
+        "attack": "162",
+        "defense": "162",
+        "stamina": "160",
+        "top_moves": [
+            "Frost Breath/Shadow Ball",
+            "Frost Breath/Avalanche",
+            "Ice Shard/Shadow Ball",
+            "Frost Breath/Gyro Ball"
+        ]
+    },
+    "363": {
+        "name": "Spheal",
+        "evolution": "Spheal » Sealeo » Walrein",
+        "type": [
+            "Ice",
+            "Water"
+        ],
+        "max_cp": "876",
+        "attack": "95",
+        "defense": "90",
+        "stamina": "140",
+        "top_moves": [
+            "Rock Smash/Aurora Beam",
+            "Rock Smash/Body Slam",
+            "Rock Smash/Water Pulse",
+            "Water Gun/Aurora Beam"
+        ]
+    },
+    "364": {
+        "name": "Sealeo",
+        "evolution": "Spheal » Sealeo » Walrein",
+        "type": [
+            "Ice",
+            "Water"
+        ],
+        "max_cp": "1607",
+        "attack": "137",
+        "defense": "132",
+        "stamina": "180",
+        "top_moves": [
+            "Water Gun/Aurora Beam",
+            "Water Gun/Body Slam",
+            "Water Gun/Water Pulse",
+            "Powder Snow/Aurora Beam"
+        ]
+    },
+    "365": {
+        "name": "Walrein",
+        "evolution": "Spheal » Sealeo » Walrein",
+        "type": [
+            "Ice",
+            "Water"
+        ],
+        "max_cp": "2606",
+        "attack": "182",
+        "defense": "176",
+        "stamina": "220",
+        "top_moves": [
+            "Waterfall/Water Pulse",
+            "Waterfall/Blizzard",
+            "Waterfall/Earthquake",
+            "Frost Breath/Water Pulse"
+        ]
+    },
+    "366": {
+        "name": "Clamperl",
+        "evolution": "Clamperl » Huntail/Gorebyss",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "1091",
+        "attack": "133",
+        "defense": "149",
+        "stamina": "70",
+        "top_moves": [
+            "Water Gun/Ice Beam",
+            "Water Gun/Body Slam",
+            "Water Gun/Water Pulse"
+        ]
+    },
+    "367": {
+        "name": "Huntail",
+        "evolution": "Clamperl » Huntail/Gorebyss",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "2140",
+        "attack": "197",
+        "defense": "194",
+        "stamina": "110",
+        "top_moves": [
+            "Bite/Crunch",
+            "Bite/Ice Beam",
+            "Water Gun/Crunch",
+            "Bite/Aqua Tail"
+        ]
+    },
+    "368": {
+        "name": "Gorebyss",
+        "evolution": "Clamperl » Huntail/Gorebyss",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "2281",
+        "attack": "211",
+        "defense": "194",
+        "stamina": "110",
+        "top_moves": [
+            "Confusion/Water Pulse",
+            "Confusion/Draining Kiss",
+            "Water Gun/Water Pulse",
+            "Confusion/Psychic"
+        ]
+    },
+    "369": {
+        "name": "Relicanth",
+        "evolution": "Relicanth",
+        "type": [
+            "Water",
+            "Rock"
+        ],
+        "max_cp": "2557",
+        "attack": "162",
+        "defense": "234",
+        "stamina": "200",
+        "top_moves": [
+            "Zen Headbutt/Ancient Power",
+            "Water Gun/Ancient Power",
+            "Zen Headbutt/Aqua Tail",
+            "Water Gun/Aqua Tail"
+        ]
+    },
+    "370": {
+        "name": "Luvdisc",
+        "evolution": "Luvdisc",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "735",
+        "attack": "81",
+        "defense": "134",
+        "stamina": "86",
+        "top_moves": [
+            "Water Gun/Water Pulse",
+            "Water Gun/Aqua Jet",
+            "Water Gun/Draining Kiss"
+        ]
+    },
+    "371": {
+        "name": "Bagon",
+        "evolution": "Bagon » Shelgon » Salamence",
+        "type": [
+            "Dragon"
+        ],
+        "max_cp": "1053",
+        "attack": "134",
+        "defense": "107",
+        "stamina": "90",
+        "top_moves": [
+            "Bite/Crunch",
+            "Ember/Crunch",
+            "Bite/Flamethrower",
+            "Bite/Twister"
+        ]
+    },
+    "372": {
+        "name": "Shelgon",
+        "evolution": "Bagon » Shelgon » Salamence",
+        "type": [
+            "Dragon"
+        ],
+        "max_cp": "1958",
+        "attack": "172",
+        "defense": "179",
+        "stamina": "130",
+        "top_moves": [
+            "Dragon Breath/Dragon Pulse",
+            "Dragon Breath/Flamethrower",
+            "Dragon Breath/Twister",
+            "Ember/Dragon Pulse"
+        ]
+    },
+    "373": {
+        "name": "Salamence",
+        "evolution": "Bagon » Shelgon » Salamence",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "max_cp": "3532",
+        "attack": "277",
+        "defense": "168",
+        "stamina": "190",
+        "top_moves": [
+            "Dragon Tail/Draco Meteor",
+            "Dragon Tail/Fire Blast",
+            "Dragon Tail/Hydro Pump",
+            "Fire Fang/Draco Meteor"
+        ]
+    },
+    "374": {
+        "name": "Beldum",
+        "evolution": "Beldum » Metang » Metagross",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "max_cp": "843",
+        "attack": "96",
+        "defense": "141",
+        "stamina": "80",
+        "top_moves": [
+            "Take Down/Struggle"
+        ]
+    },
+    "375": {
+        "name": "Metang",
+        "evolution": "Beldum » Metang » Metagross",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "max_cp": "1570",
+        "attack": "138",
+        "defense": "185",
+        "stamina": "120",
+        "top_moves": [
+            "Zen Headbutt/Psyshock",
+            "Metal Claw/Psyshock",
+            "Zen Headbutt/Gyro Ball",
+            "Metal Claw/Gyro Ball"
+        ]
+    },
+    "376": {
+        "name": "Metagross",
+        "evolution": "Beldum » Metang » Metagross",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "max_cp": "3637",
+        "attack": "257",
+        "defense": "247",
+        "stamina": "160",
+        "top_moves": [
+            "Zen Headbutt/Earthquake",
+            "Zen Headbutt/Psychic",
+            "Zen Headbutt/Flash Cannon",
+            "Bullet Punch/Earthquake"
+        ]
+    },
+    "377": {
+        "name": "Regirock",
+        "evolution": "Regirock",
+        "type": [
+            "Rock"
+        ],
+        "max_cp": "3087",
+        "attack": "179",
+        "defense": "356",
+        "stamina": "160",
+        "top_moves": [
+            "Rock Throw/Zap Cannon",
+            "Rock Throw/Focus Blast",
+            "Rock Smash/Zap Cannon",
+            "Rock Smash/Focus Blast"
+        ]
+    },
+    "378": {
+        "name": "Regice",
+        "evolution": "Regice",
+        "type": [
+            "Ice"
+        ],
+        "max_cp": "3087",
+        "attack": "179",
+        "defense": "356",
+        "stamina": "160",
+        "top_moves": [
+            "Rock Smash/Focus Blast",
+            "Rock Smash/Blizzard",
+            "Frost Breath/Focus Blast",
+            "Rock Smash/Earthquake"
+        ]
+    },
+    "379": {
+        "name": "Registeel",
+        "evolution": "Registeel",
+        "type": [
+            "Steel"
+        ],
+        "max_cp": "2261",
+        "attack": "143",
+        "defense": "285",
+        "stamina": "160",
+        "top_moves": [
+            "Rock Smash/Hyper Beam",
+            "Rock Smash/Focus Blast",
+            "Metal Claw/Hyper Beam",
+            "Metal Claw/Focus Blast"
+        ]
+    },
+    "380": {
+        "name": "Latias",
+        "evolution": "Latias",
+        "type": [
+            "Dragon",
+            "Psychic"
+        ],
+        "max_cp": "3377",
+        "attack": "228",
+        "defense": "268",
+        "stamina": "160",
+        "top_moves": [
+            "Dragon Breath/Dragon Claw",
+            "Zen Headbutt/Dragon Claw",
+            "Dragon Breath/Psychic",
+            "Dragon Breath/Thunder"
+        ]
+    },
+    "381": {
+        "name": "Latios",
+        "evolution": "Latios",
+        "type": [
+            "Dragon",
+            "Psychic"
+        ],
+        "max_cp": "3644",
+        "attack": "268",
+        "defense": "228",
+        "stamina": "160",
+        "top_moves": [
+            "Dragon Breath/Solar Beam",
+            "Dragon Breath/Dragon Claw",
+            "Zen Headbutt/Solar Beam",
+            "Zen Headbutt/Dragon Claw"
+        ]
+    },
+    "382": {
+        "name": "Kyogre",
+        "evolution": "Kyogre",
+        "type": [
+            "Water"
+        ],
+        "max_cp": "4074",
+        "attack": "270",
+        "defense": "251",
+        "stamina": "182",
+        "top_moves": [
+            "Waterfall/Hydro Pump",
+            "Waterfall/Blizzard",
+            "Waterfall/Thunder"
+        ]
+    },
+    "383": {
+        "name": "Groudon",
+        "evolution": "Groudon",
+        "type": [
+            "Ground"
+        ],
+        "max_cp": "4074",
+        "attack": "270",
+        "defense": "251",
+        "stamina": "182",
+        "top_moves": [
+            "Dragon Tail/Solar Beam",
+            "Dragon Tail/Fire Blast",
+            "Dragon Tail/Earthquake",
+            "Mud Shot/Solar Beam"
+        ]
+    },
+    "384": {
+        "name": "Rayquaza",
+        "evolution": "Rayquaza",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "max_cp": "3645",
+        "attack": "284",
+        "defense": "170",
+        "stamina": "191",
+        "top_moves": [
+            "Dragon Tail/Outrage",
+            "Dragon Tail/Ancient Power",
+            "Air Slash/Outrage",
+            "Air Slash/Ancient Power"
+        ]
+    },
+    "385": {
+        "name": "Jirachi",
+        "evolution": "Jirachi",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "max_cp": "3090",
+        "attack": "210",
+        "defense": "210",
+        "stamina": "200",
+        "top_moves": [
+            "Confusion/Dazzling Gleam",
+            "Confusion/Doom Desire",
+            "Charge Beam/Dazzling Gleam",
+            "Confusion/Psychic"
+        ]
+    },
+    "386": {
+        "name": "Deoxys",
+        "evolution": "Deoxys",
+        "type": [
+            "Psychic"
+        ],
+        "max_cp": "15",
+        "attack": "1",
+        "defense": "1",
+        "stamina": "1",
+        "top_moves": [
+            "Counter/Psycho Boost",
+            "Counter/Zap Cannon",
+            "Counter/Swift",
+            "Zen Headbutt/Psycho Boost"
+        ]
+    },
+    "387": {
+        "name": "Turtwig",
+        "type": [
+            "Grass"
+        ],
+        "max_cp": "1066",
+        "attack": "119",
+        "defense": "115",
+        "stamina": "110",
+        "top_moves": [
+            "N/A"
+        ]
+    },
+    "388": {
+        "name": "Grotle"
+    },
+    "389": {
+        "name": "Torterra"
+    },
+    "390": {
+        "name": "Chimchar"
+    },
+    "391": {
+        "name": "Monferno"
+    },
+    "392": {
+        "name": "Infernape"
+    },
+    "393": {
+        "name": "Piplup"
+    },
+    "394": {
+        "name": "Prinplup"
+    },
+    "395": {
+        "name": "Empoleon"
+    },
+    "396": {
+        "name": "Starly"
+    },
+    "397": {
+        "name": "Staravia"
+    },
+    "398": {
+        "name": "Staraptor"
+    },
+    "399": {
+        "name": "Bidoof"
+    },
+    "400": {
+        "name": "Bibarel"
+    },
+    "401": {
+        "name": "Kricketot"
+    },
+    "402": {
+        "name": "Kricketune"
+    },
+    "403": {
+        "name": "Shinx"
+    },
+    "404": {
+        "name": "Luxio"
+    },
+    "405": {
+        "name": "Luxray"
+    },
+    "406": {
+        "name": "Budew"
+    },
+    "407": {
+        "name": "Roserade"
+    },
+    "408": {
+        "name": "Cranidos"
+    },
+    "409": {
+        "name": "Rampardos"
+    },
+    "410": {
+        "name": "Shieldon"
+    },
+    "411": {
+        "name": "Bastiodon"
+    },
+    "412": {
+        "name": "Burmy"
+    },
+    "413": {
+        "name": "Wormadam"
+    },
+    "414": {
+        "name": "Mothim"
+    },
+    "415": {
+        "name": "Combee"
+    },
+    "416": {
+        "name": "Vespiquen"
+    },
+    "417": {
+        "name": "Pachirisu"
+    },
+    "418": {
+        "name": "Buizel"
+    },
+    "419": {
+        "name": "Floatzel"
+    },
+    "420": {
+        "name": "Cherubi"
+    },
+    "421": {
+        "name": "Cherrim"
+    },
+    "422": {
+        "name": "Shellos"
+    },
+    "423": {
+        "name": "Gastrodon"
+    },
+    "424": {
+        "name": "Ambipom"
+    },
+    "425": {
+        "name": "Drifloon"
+    },
+    "426": {
+        "name": "Drifblim"
+    },
+    "427": {
+        "name": "Buneary"
+    },
+    "428": {
+        "name": "Lopunny"
+    },
+    "429": {
+        "name": "Mismagius"
+    },
+    "430": {
+        "name": "Honchkrow"
+    },
+    "431": {
+        "name": "Glameow"
+    },
+    "432": {
+        "name": "Purugly"
+    },
+    "433": {
+        "name": "Chingling"
+    },
+    "434": {
+        "name": "Stunky"
+    },
+    "435": {
+        "name": "Skuntank"
+    },
+    "436": {
+        "name": "Bronzor"
+    },
+    "437": {
+        "name": "Bronzong"
+    },
+    "438": {
+        "name": "Bonsly"
+    },
+    "439": {
+        "name": "Mime Jr."
+    },
+    "440": {
+        "name": "Happiny"
+    },
+    "441": {
+        "name": "Chatot"
+    },
+    "442": {
+        "name": "Spiritomb"
+    },
+    "443": {
+        "name": "Gible"
+    },
+    "444": {
+        "name": "Gabite"
+    },
+    "445": {
+        "name": "Garchomp"
+    },
+    "446": {
+        "name": "Munchlax"
+    },
+    "447": {
+        "name": "Riolu"
+    },
+    "448": {
+        "name": "Lucario"
+    },
+    "449": {
+        "name": "Hippopotas"
+    },
+    "450": {
+        "name": "Hippowdon"
+    },
+    "451": {
+        "name": "Skorupi"
+    },
+    "452": {
+        "name": "Drapion"
+    },
+    "453": {
+        "name": "Croagunk"
+    },
+    "454": {
+        "name": "Toxicroak"
+    },
+    "455": {
+        "name": "Carnivine"
+    },
+    "456": {
+        "name": "Finneon"
+    },
+    "457": {
+        "name": "Lumineon"
+    },
+    "458": {
+        "name": "Mantyke"
+    },
+    "459": {
+        "name": "Snover"
+    },
+    "460": {
+        "name": "Abomasnow"
+    },
+    "461": {
+        "name": "Weavile"
+    },
+    "462": {
+        "name": "Magnezone"
+    },
+    "463": {
+        "name": "Lickilicky"
+    },
+    "464": {
+        "name": "Rhyperior"
+    },
+    "465": {
+        "name": "Tangrowth"
+    },
+    "466": {
+        "name": "Electivire"
+    },
+    "467": {
+        "name": "Magmortar"
+    },
+    "468": {
+        "name": "Togekiss"
+    },
+    "469": {
+        "name": "Yanmega"
+    },
+    "470": {
+        "name": "Leafeon"
+    },
+    "471": {
+        "name": "Glaceon"
+    },
+    "472": {
+        "name": "Gliscor"
+    },
+    "473": {
+        "name": "Mamoswine"
+    },
+    "474": {
+        "name": "Porygon-Z"
+    },
+    "475": {
+        "name": "Gallade"
+    },
+    "476": {
+        "name": "Probopass"
+    },
+    "477": {
+        "name": "Dusknoir"
+    },
+    "478": {
+        "name": "Froslass"
+    },
+    "479": {
+        "name": "Rotom"
+    },
+    "480": {
+        "name": "Uxie"
+    },
+    "481": {
+        "name": "Mesprit"
+    },
+    "482": {
+        "name": "Azelf"
+    },
+    "483": {
+        "name": "Dialga"
+    },
+    "484": {
+        "name": "Palkia"
+    },
+    "485": {
+        "name": "Heatran"
+    },
+    "486": {
+        "name": "Regigigas"
+    },
+    "487": {
+        "name": "Giratina"
+    },
+    "488": {
+        "name": "Cresselia"
+    },
+    "489": {
+        "name": "Phione"
+    },
+    "490": {
+        "name": "Manaphy"
+    },
+    "491": {
+        "name": "Darkrai"
+    },
+    "492": {
+        "name": "Shaymin"
+    },
+    "493": {
+        "name": "Arceus"
+    },
+    "494": {
+        "name": "Victini"
+    },
+    "495": {
+        "name": "Snivy"
+    },
+    "496": {
+        "name": "Servine"
+    },
+    "497": {
+        "name": "Serperior"
+    },
+    "498": {
+        "name": "Tepig"
+    },
+    "499": {
+        "name": "Pignite"
+    },
+    "500": {
+        "name": "Emboar"
+    },
+    "501": {
+        "name": "Oshawott"
+    },
+    "502": {
+        "name": "Dewott"
+    },
+    "503": {
+        "name": "Samurott"
+    },
+    "504": {
+        "name": "Patrat"
+    },
+    "505": {
+        "name": "Watchog"
+    },
+    "506": {
+        "name": "Lillipup"
+    },
+    "507": {
+        "name": "Herdier"
+    },
+    "508": {
+        "name": "Stoutland"
+    },
+    "509": {
+        "name": "Purrloin"
+    },
+    "510": {
+        "name": "Liepard"
+    },
+    "511": {
+        "name": "Pansage"
+    },
+    "512": {
+        "name": "Simisage"
+    },
+    "513": {
+        "name": "Pansear"
+    },
+    "514": {
+        "name": "Simisear"
+    },
+    "515": {
+        "name": "Panpour"
+    },
+    "516": {
+        "name": "Simipour"
+    },
+    "517": {
+        "name": "Munna"
+    },
+    "518": {
+        "name": "Musharna"
+    },
+    "519": {
+        "name": "Pidove"
+    },
+    "520": {
+        "name": "Tranquill"
+    },
+    "521": {
+        "name": "Unfezant"
+    },
+    "522": {
+        "name": "Blitzle"
+    },
+    "523": {
+        "name": "Zebstrika"
+    },
+    "524": {
+        "name": "Roggenrola"
+    },
+    "525": {
+        "name": "Boldore"
+    },
+    "526": {
+        "name": "Gigalith"
+    },
+    "527": {
+        "name": "Woobat"
+    },
+    "528": {
+        "name": "Swoobat"
+    },
+    "529": {
+        "name": "Drilbur"
+    },
+    "530": {
+        "name": "Excadrill"
+    },
+    "531": {
+        "name": "Audino"
+    },
+    "532": {
+        "name": "Timburr"
+    },
+    "533": {
+        "name": "Gurdurr"
+    },
+    "534": {
+        "name": "Conkeldurr"
+    },
+    "535": {
+        "name": "Tympole"
+    },
+    "536": {
+        "name": "Palpitoad"
+    },
+    "537": {
+        "name": "Seismitoad"
+    },
+    "538": {
+        "name": "Throh"
+    },
+    "539": {
+        "name": "Sawk"
+    },
+    "540": {
+        "name": "Sewaddle"
+    },
+    "541": {
+        "name": "Swadloon"
+    },
+    "542": {
+        "name": "Leavanny"
+    },
+    "543": {
+        "name": "Venipede"
+    },
+    "544": {
+        "name": "Whirlipede"
+    },
+    "545": {
+        "name": "Scolipede"
+    },
+    "546": {
+        "name": "Cottonee"
+    },
+    "547": {
+        "name": "Whimsicott"
+    },
+    "548": {
+        "name": "Petilil"
+    },
+    "549": {
+        "name": "Lilligant"
+    },
+    "550": {
+        "name": "Basculin"
+    },
+    "551": {
+        "name": "Sandile"
+    },
+    "552": {
+        "name": "Krokorok"
+    },
+    "553": {
+        "name": "Krookodile"
+    },
+    "554": {
+        "name": "Darumaka"
+    },
+    "555": {
+        "name": "Darmanitan"
+    },
+    "556": {
+        "name": "Maractus"
+    },
+    "557": {
+        "name": "Dwebble"
+    },
+    "558": {
+        "name": "Crustle"
+    },
+    "559": {
+        "name": "Scraggy"
+    },
+    "560": {
+        "name": "Scrafty"
+    },
+    "561": {
+        "name": "Sigilyph"
+    },
+    "562": {
+        "name": "Yamask"
+    },
+    "563": {
+        "name": "Cofagrigus"
+    },
+    "564": {
+        "name": "Tirtouga"
+    },
+    "565": {
+        "name": "Carracosta"
+    },
+    "566": {
+        "name": "Archen"
+    },
+    "567": {
+        "name": "Archeops"
+    },
+    "568": {
+        "name": "Trubbish"
+    },
+    "569": {
+        "name": "Garbodor"
+    },
+    "570": {
+        "name": "Zorua"
+    },
+    "571": {
+        "name": "Zoroark"
+    },
+    "572": {
+        "name": "Minccino"
+    },
+    "573": {
+        "name": "Cinccino"
+    },
+    "574": {
+        "name": "Gothita"
+    },
+    "575": {
+        "name": "Gothorita"
+    },
+    "576": {
+        "name": "Gothitelle"
+    },
+    "577": {
+        "name": "Solosis"
+    },
+    "578": {
+        "name": "Duosion"
+    },
+    "579": {
+        "name": "Reuniclus"
+    },
+    "580": {
+        "name": "Ducklett"
+    },
+    "581": {
+        "name": "Swanna"
+    },
+    "582": {
+        "name": "Vanillite"
+    },
+    "583": {
+        "name": "Vanillish"
+    },
+    "584": {
+        "name": "Vanilluxe"
+    },
+    "585": {
+        "name": "Deerling"
+    },
+    "586": {
+        "name": "Sawsbuck"
+    },
+    "587": {
+        "name": "Emolga"
+    },
+    "588": {
+        "name": "Karrablast"
+    },
+    "589": {
+        "name": "Escavalier"
+    },
+    "590": {
+        "name": "Foongus"
+    },
+    "591": {
+        "name": "Amoonguss"
+    },
+    "592": {
+        "name": "Frillish"
+    },
+    "593": {
+        "name": "Jellicent"
+    },
+    "594": {
+        "name": "Alomomola"
+    },
+    "595": {
+        "name": "Joltik"
+    },
+    "596": {
+        "name": "Galvantula"
+    },
+    "597": {
+        "name": "Ferroseed"
+    },
+    "598": {
+        "name": "Ferrothorn"
+    },
+    "599": {
+        "name": "Klink"
+    },
+    "600": {
+        "name": "Klang"
+    },
+    "601": {
+        "name": "Klinklang"
+    },
+    "602": {
+        "name": "Tynamo"
+    },
+    "603": {
+        "name": "Eelektrik"
+    },
+    "604": {
+        "name": "Eelektross"
+    },
+    "605": {
+        "name": "Elgyem"
+    },
+    "606": {
+        "name": "Beheeyem"
+    },
+    "607": {
+        "name": "Litwick"
+    },
+    "608": {
+        "name": "Lampent"
+    },
+    "609": {
+        "name": "Chandelure"
+    },
+    "610": {
+        "name": "Axew"
+    },
+    "611": {
+        "name": "Fraxure"
+    },
+    "612": {
+        "name": "Haxorus"
+    },
+    "613": {
+        "name": "Cubchoo"
+    },
+    "614": {
+        "name": "Beartic"
+    },
+    "615": {
+        "name": "Cryogonal"
+    },
+    "616": {
+        "name": "Shelmet"
+    },
+    "617": {
+        "name": "Accelgor"
+    },
+    "618": {
+        "name": "Stunfisk"
+    },
+    "619": {
+        "name": "Mienfoo"
+    },
+    "620": {
+        "name": "Mienshao"
+    },
+    "621": {
+        "name": "Druddigon"
+    },
+    "622": {
+        "name": "Golett"
+    },
+    "623": {
+        "name": "Golurk"
+    },
+    "624": {
+        "name": "Pawniard"
+    },
+    "625": {
+        "name": "Bisharp"
+    },
+    "626": {
+        "name": "Bouffalant"
+    },
+    "627": {
+        "name": "Rufflet"
+    },
+    "628": {
+        "name": "Braviary"
+    },
+    "629": {
+        "name": "Vullaby"
+    },
+    "630": {
+        "name": "Mandibuzz"
+    },
+    "631": {
+        "name": "Heatmor"
+    },
+    "632": {
+        "name": "Durant"
+    },
+    "633": {
+        "name": "Deino"
+    },
+    "634": {
+        "name": "Zweilous"
+    },
+    "635": {
+        "name": "Hydreigon"
+    },
+    "636": {
+        "name": "Larvesta"
+    },
+    "637": {
+        "name": "Volcarona"
+    },
+    "638": {
+        "name": "Cobalion"
+    },
+    "639": {
+        "name": "Terrakion"
+    },
+    "640": {
+        "name": "Virizion"
+    },
+    "641": {
+        "name": "Tornadus"
+    },
+    "642": {
+        "name": "Thundurus"
+    },
+    "643": {
+        "name": "Reshiram"
+    },
+    "644": {
+        "name": "Zekrom"
+    },
+    "645": {
+        "name": "Landorus"
+    },
+    "646": {
+        "name": "Kyurem"
+    },
+    "647": {
+        "name": "Keldeo"
+    },
+    "648": {
+        "name": "Meloetta"
+    },
+    "649": {
+        "name": "Genesect"
+    },
+    "650": {
+        "name": "Chespin"
+    },
+    "651": {
+        "name": "Quilladin"
+    },
+    "652": {
+        "name": "Chesnaught"
+    },
+    "653": {
+        "name": "Fennekin"
+    },
+    "654": {
+        "name": "Braixen"
+    },
+    "655": {
+        "name": "Delphox"
+    },
+    "656": {
+        "name": "Froakie"
+    },
+    "657": {
+        "name": "Frogadier"
+    },
+    "658": {
+        "name": "Greninja"
+    },
+    "659": {
+        "name": "Bunnelby"
+    },
+    "660": {
+        "name": "Diggersby"
+    },
+    "661": {
+        "name": "Fletchling"
+    },
+    "662": {
+        "name": "Fletchinder"
+    },
+    "663": {
+        "name": "Talonflame"
+    },
+    "664": {
+        "name": "Scatterbug"
+    },
+    "665": {
+        "name": "Spewpa"
+    },
+    "666": {
+        "name": "Vivillon"
+    },
+    "667": {
+        "name": "Litleo"
+    },
+    "668": {
+        "name": "Pyroar"
+    },
+    "669": {
+        "name": "Flabébé"
+    },
+    "670": {
+        "name": "Floette"
+    },
+    "671": {
+        "name": "Florges"
+    },
+    "672": {
+        "name": "Skiddo"
+    },
+    "673": {
+        "name": "Gogoat"
+    },
+    "674": {
+        "name": "Pancham"
+    },
+    "675": {
+        "name": "Pangoro"
+    },
+    "676": {
+        "name": "Furfrou"
+    },
+    "677": {
+        "name": "Espurr"
+    },
+    "678": {
+        "name": "Meowstic"
+    },
+    "679": {
+        "name": "Honedge"
+    },
+    "680": {
+        "name": "Doublade"
+    },
+    "681": {
+        "name": "Aegislash"
+    },
+    "682": {
+        "name": "Spritzee"
+    },
+    "683": {
+        "name": "Aromatisse"
+    },
+    "684": {
+        "name": "Swirlix"
+    },
+    "685": {
+        "name": "Slurpuff"
+    },
+    "686": {
+        "name": "Inkay"
+    },
+    "687": {
+        "name": "Malamar"
+    },
+    "688": {
+        "name": "Binacle"
+    },
+    "689": {
+        "name": "Barbaracle"
+    },
+    "690": {
+        "name": "Skrelp"
+    },
+    "691": {
+        "name": "Dragalge"
+    },
+    "692": {
+        "name": "Clauncher"
+    },
+    "693": {
+        "name": "Clawitzer"
+    },
+    "694": {
+        "name": "Helioptile"
+    },
+    "695": {
+        "name": "Heliolisk"
+    },
+    "696": {
+        "name": "Tyrunt"
+    },
+    "697": {
+        "name": "Tyrantrum"
+    },
+    "698": {
+        "name": "Amaura"
+    },
+    "699": {
+        "name": "Aurorus"
+    },
+    "700": {
+        "name": "Sylveon"
+    },
+    "701": {
+        "name": "Hawlucha"
+    },
+    "702": {
+        "name": "Dedenne"
+    },
+    "703": {
+        "name": "Carbink"
+    },
+    "704": {
+        "name": "Goomy"
+    },
+    "705": {
+        "name": "Sliggoo"
+    },
+    "706": {
+        "name": "Goodra"
+    },
+    "707": {
+        "name": "Klefki"
+    },
+    "708": {
+        "name": "Phantump"
+    },
+    "709": {
+        "name": "Trevenant"
+    },
+    "710": {
+        "name": "Pumpkaboo"
+    },
+    "711": {
+        "name": "Gourgeist"
+    },
+    "712": {
+        "name": "Bergmite"
+    },
+    "713": {
+        "name": "Avalugg"
+    },
+    "714": {
+        "name": "Noibat"
+    },
+    "715": {
+        "name": "Noivern"
+    },
+    "716": {
+        "name": "Xerneas"
+    },
+    "717": {
+        "name": "Yveltal"
+    },
+    "718": {
+        "name": "Zygarde"
+    },
+    "719": {
+        "name": "Diancie"
+    },
+    "720": {
+        "name": "Hoopa"
+    },
+    "721": {
+        "name": "Volcanion"
+    }
+}
